@@ -1,0 +1,3847 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <title>
+   Sony ECX335SN-6 Overview - Panelook.com
+  </title>
+  <meta content="default-src 'self'; style-src 'self' http://* 'unsafe-inline'; script-src 'self' ssl.google-analytics.com 'unsafe-eval' 'unsafe-inline';img-src 'self' ssl.google-analytics.com data:" http-equiv="Content-Security-Policy"/>
+  <meta content="ECX335SN-6,ECX335SN-6 specs,ECX335SN-6.pdf" name="keywords"/>
+  <meta content="Sony ECX335SN-6 datasheet 1 files, 5333 pcs stock, 9 suppliers, price, photos, compatible model. Si-OLED, 0.71', 1920×1080, 3000 nit, 10000:1 (Min.), 16.7M color, 60Hz, self, LVDS" name="description"/>
+  <meta content="www.panelook.com" name="author"/>
+  <meta content="Panelook.com | All rights reserved." name="copyright"/>
+  <meta content="Sony ECX335SN-6 Overview - Panelook.com" itemprop="name"/>
+  <meta content="Sony ECX335SN-6 datasheet 1 files, 5333 stocks, 9 suppliers, price, photos, compatible model. Si-OLED, 0.71', 1920×1080, 3000 nit, 10000:1 (Min.), 16.7M color, 60Hz, self, LVDS" itemprop="description"/>
+  <meta content="https://www.panelook.com/images/202203/1647251010152045.jpg" itemprop="image"/>
+  <meta content="Sony ECX335SN-6 Overview" property="og:title"/>
+  <meta content="article" property="og:type"/>
+  <meta content="https://panelook.com/ECX335SN-6_Sony_0.71_OLED_overview_45369.html" property="og:url"/>
+  <meta content="https://www.panelook.com/images/202203/1647251010152045.jpg" property="og:image"/>
+  <meta content="Sony ECX335SN-6 datasheet 1 files, 5333 stocks, 9 suppliers, price, photos, compatible model. Si-OLED, 0.71', 1920×1080, 3000 nit, 10000:1 (Min.), 16.7M color, 60Hz, self, LVDS" property="og:description"/>
+  <meta content="Panelook" property="og:site_name"/>
+  <link href="https://panelook.com/cms-templates/en/style/css/head_1612e.css" rel="stylesheet" type="text/css"/>
+  <link href="https://panelook.com/cms-templates/en/style/css/modeldetail_1612e.css?time=20230131-3" rel="stylesheet" type="text/css"/>
+  <link href="https://panelook.com/cms-templates/en/style/css/itemfilter_1612e.css" rel="stylesheet" type="text/css"/>
+  <link href="/favicon.ico" rel="icon" type="image/x-icon"/>
+  <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+  <link href="https://panelook.com/ECX335SN-6_Sony_0.71_OLED_overview_45369.html" rel="canonical"/>
+  <script language="javascript" src="https://panelook.com/cms-templates/en/style/js/userad.js" type="text/javascript">
+  </script>
+  <script language="javascript" src="https://panelook.com/cms-templates/en/style/js/ScrollPic.js" type="text/javascript">
+  </script>
+  <style type="text/css">
+   .feapic {clear:both; float:left; overflow:hidden;}
+.feapic li {float:left; margin-right:10px; height:25px; overflow:hidden; text-align:left;}
+.feapic li img {height:25px; margin:0px 0;}
+.blankarea {text-align:center; font-size:14px; color:#F60; height:50px;}
+.gf_tab {font-family:Arial,sans-serif;}
+.gf_tab th {text-align:left; font-weight:normal; width:95px; border-top:solid #eee 1px; line-height:25px; padding-left:0;}
+.gf_tab td {line-height:16px; border-left:1px solid #eee; border-top:solid #eee 1px; border-bottom:none; padding-left:5px;}
+.gftab_dl_fix {border-top:solid #eee 1px; margin:0 10px 0 10px;}
+.gftab_dl_fix .dl4  dd { float:left; width:220px; height:25px; line-height:25px;border-bottom:solid #eee 1px; padding-left:6px;}
+.gftab_dl_fix .dl4  dd.r {width:299px;}
+.gftab_dl_fix .dl4  dt { float:left; width:90px; font-weight:normal;border-right:solid #eee 1px;border-bottom:solid #eee 1px; height:25px; line-height:25px;}
+.gftab_dl_fix .dl4  dt.r {border-left:solid #eee 1px; padding-left:5px; width:90px; }
+.gftab_dl_fix .li2 dt { height:25px; line-height:25px;border-bottom:solid #eee 1px; float:left; width:90px; font-weight:normal;border-right:solid #eee 1px;}
+.gftab_dl_fix .li2 dd { width:622px; padding-left:6px; height:25px; line-height:25px;border-bottom:solid #eee 1px; float:left}
+  </style>
+ </head>
+ <body>
+  <noscript>
+   <iframe scr="*.htm">
+   </iframe>
+  </noscript>
+  <script type="text/javascript">
+   var uid = '';
+var siteurl = 'https://panelook.com';
+  </script>
+  <link href="cms-includes/layui/css/layui.css" rel="stylesheet"/>
+  <link href="https://panelook.com/cms-templates/en/style/css/head_1612e.css" rel="stylesheet" type="text/css"/>
+  <script src="cms-includes/js/jquery.js" type="text/javascript">
+  </script>
+  <script src="cms-includes/layui/layui.js" type="text/javascript">
+  </script>
+  <script src="cms-includes/js/too.js?s=4" type="text/javascript">
+  </script>
+  <script language="javascript" src="cms-includes/js/main.js?s=3" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   //通用函数
+function msg_top(content, icon)
+{
+layui.use('layer', function(){
+var layer = layui.layer;
+
+layer.msg(content,{offset: '30px', time :1500});
+});
+}
+function urlencode(str)
+{
+    str = (str + '').toString();
+    return encodeURIComponent(str).replace(/!/g, '%21').replace(/'/g, '%27').replace(/\(/g, '%28').
+    replace(/\)/g, '%29').replace(/\*/g, '%2A').replace(/%20/g, '+');
+}
+
+//会员登录
+function ajax_login_box(block_url, width, height)
+{
+block_url = (typeof(block_url) !== "undefined") ? urlencode(block_url) : '';
+
+var url = "models.php?op=login&ac=login&lang=en&block_url="+block_url+"&width="+width+"&height="+height+"";
+layui.use('layer', function(){
+var layer = layui.layer;
+layer.open({
+  type: 2,
+  title: false,
+  shade: 0.7,
+  area: ['450px', '380px'], //宽高
+  skin: 'layui-layer-rim', //加上边框
+  content: url,
+  cancel: function(){
+//page_footer_load(); //从新加载页面
+  }
+});
+});
+}
+
+
+//页面底部加载
+function page_footer_load()
+{
+var param = {
+page_type:'modeldetail',
+page_id:'45369'
+}
+
+
+$.getJSON("models.php?op=footer-load&ac=load&lang=en", param, function(result)
+{
+console.log(result)
+var member = result.data.member;
+var msg_nums = result.data.msg_nums;
+var tags = result.data.tags;
+
+//会员状态
+if (member.uid > 0)
+{
+uid = member.uid;
+var _top_member_info = '<li class="left"><a href="member.php">Hi! '+member.username+'</a>&nbsp;<a href="member.php?action=logout">[Sign Out]</a> &nbsp; <a href="member.php?op=inquiry" class="inmsgs"><span class="orange">'+msg_nums.msgs_inbox+'</span> new</a></li>';
+}
+else
+{
+var _top_member_info = '<li class="left user"><a href="https://panelook.com/register.php">Join Free</a> | <a href="javascript:;" title="Sign In" onclick="ajax_login_box()">Sign In</a></li>';
+}
+
+
+$("#top_member_info").html(_top_member_info);
+if (msg_nums)
+{
+$(".top_msg_num").html(msg_nums.xunjialan);
+}
+
+//标注
+if (param.page_type == 'modeldetail' && tags)
+{
+for (var invid in tags.inv)
+{
+$("#tag_inv_"+invid).html(tags.inv[invid])
+}
+for (var supid in tags.sup)
+{
+$("#tag_sup_"+supid).html(tags.sup[supid])
+}
+}
+
+
+
+//VIP买家查看价格
+if (param.page_type == 'modeldetail' && result.data.view_content == 1)
+{
+var invitems = result.data.invitems;
+for (var key in invitems)
+{
+var price_html = (invitems[key].inv_currency == 'USD') ? '$' : '￥';
+price_html += invitems[key].inv_quotation + '/pcs';
+
+$("#view_price_"+invitems[key].invid).html(price_html)
+}
+}
+});
+}
+  </script>
+  <script type="text/javascript">
+   $(document).ready(function()
+{
+$(".tablelist tr").each(function()
+{
+$(this).hover(function(){$(this).toggleClass("set");},function(){$(this).toggleClass("set");});
+});
+$(".serieslist tr").each(function()
+{
+$(this).hover(function(){$(this).toggleClass("set");},function(){$(this).toggleClass("set");});
+});
+$(".selectbox").each(function()
+{
+$(this).click(function(){
+if ($(this).attr("checked") == true){$(this).parent("td").parent("tr").children("td").addClass("set");}
+else{$(this).parent("td").parent("tr").children("td").removeClass("set");       }
+});
+});
+
+$("#nstdl dt").click(function(){
+if ($("#nstdl").children("dd").is(':hidden') == true)
+{
+//$("#nstdl").children("dd").slideDown(200);
+$("#nstdl").children("dd").show();
+}
+else
+{
+//$("#nstdl").children("dd").slideUp(200);
+$("#nstdl").children("dd").hide();
+}
+});
+});
+
+
+
+/* 面板型号检索页面下拉参数展开/收起切换 */
+$(document).ready(function(){
+$(".eamore").click(function(){
+if ($(this).hasClass("moreup"))
+{
+$(this).parent().height(min_height);
+$(this).html("More");
+}
+else
+{
+$(this).parent().height("auto");
+$(this).html("Less");
+}
+$(this).toggleClass("moreup");
+});
+
+$(".ea_dls dl").hover(function(){
+if ($(this).children("dd").is(':hidden') == true)
+{
+$(this).children("dd").slideDown(200);
+}
+else
+{
+$(this).children("dd").slideUp(200);
+}
+$(this).toggleClass("cur");
+},function(){
+$(this).children("dd").slideUp(200);
+$(this).toggleClass("cur");
+});
+});
+
+
+
+// 2018-05-03
+function add_invs()
+{
+if (uid > 0)
+{
+$("#invlistform").attr("action","https://panelook.com/member.php?op=msg&ac=add_invs");
+$("#invlistform").submit();
+}
+else
+{
+ajax_login_box()
+}
+}
+// 2018-05-03
+function send_invs()
+{
+if (uid > 0)
+{
+$("#invlistform").attr("action","https://panelook.com/member.php?op=msgs_send");
+$("#invlistform").submit();
+}
+else
+{
+ajax_login_box()
+}
+}
+
+/* Pop member sign in window
+function ajax_login_box()
+{
+$(".login_box_bg").show();
+$(".login_box_bg").css("width",$(document.body).width());
+$(".login_box_bg").css("height",$(document.body).height());
+
+$("#login_box").show();
+
+var top = (($(window).height() - 260)/2) + $(document).scrollTop();
+var left = (($(window).width() - 400)/2) + $(document).scrollLeft();
+$("#login_box .login_box").css("top",top);
+$("#login_box .login_box").css("left",left);
+$("#login_box .iframe_login").css("top",top);
+$("#login_box .iframe_login").css("left",left);
+
+var company_url = '';
+if (company_url)
+{
+refreshcode(company_url);
+}
+else
+{
+refreshcode('https://panelook.com');
+}
+}
+*/
+
+function login_box_check()
+{
+var username = $("#lbusername").val();
+var password = $("#lbpassword").val();
+var vcode        = $("#lbvcode").val();
+
+if (username == '')
+{
+alert("Please enter username!");
+$("#lbusername").focus();
+return false;
+}
+if (password == '')
+{
+alert("Please enter password!");
+$("#lbpassword").focus();
+return false;
+}
+<!---->
+
+
+//显示loading图标
+$(".lbdiv .loading").show();
+
+$.post("login_box.php?ac=checklogin&lang=en", { username:username, password:password, vcode:vcode, rst:randomstr()}, function(data)
+{
+if (data == '1')
+{
+alert("Incorrect username or password!");
+//$("#lbusername").val('');
+$("#lbpassword").val('');
+$(".lbdiv .loading").hide();
+$("#lbpassword").focus();
+return false;
+}
+else if (data == '2')
+{
+alert("Incorrect verification code!");
+$("#lbvcode").val('');
+$(".lbdiv .loading").hide();
+$("#lbvcode").focus();
+return false;
+}
+else if (data == '3')
+{
+alert("Your account disabled!");
+$("#lbvcode").val('');
+$(".lbdiv .loading").hide();
+$("#lbvcode").focus();
+return false;
+}
+else
+{
+doOpenPostIfrm("http://www.panelook.cn/login_box.php?ac=checklogin_cooike&lang=cn", [{ name: "username", value: username}, { name: "password", value: password}]);
+setTimeout(function (){
+location.reload();
+$(".login_box_bg").hide();$("#login_box").hide();
+}, 600);
+}
+});
+}
+
+
+
+function cmsbox_close()
+{
+$(".cmsbox_bg").hide();
+$("#cmsbox").hide();
+}
+
+function cmsok_box(title, url, width, height)
+{
+$(".cmsbox_bg").show();
+$(".cmsbox_bg").css("width",$(document.body).width());
+$(".cmsbox_bg").css("height",$(document.body).height());
+
+if (width > 0)
+{
+
+}
+else
+{
+width = 500;
+}
+
+if (height > 0)
+{
+
+}
+else
+{
+height = 300;
+}
+
+$("#cmsbox").show();
+var top = (($(window).height() - height)/2) + $(document).scrollTop();
+var left = (($(window).width() - width)/2) + $(document).scrollLeft();
+$("#cmsbox .cmsbox").css("top",top);
+$("#cmsbox .cmsbox").css("left",left);
+
+$("#cmsbox .cmsbox").css("width",width);
+$("#cmsbox .cmsbox").css("height",height);
+
+$("#cmsbox iframe").css("width",width);
+$("#cmsbox iframe").css("height",height - 30);
+
+
+$("#cmsbox #cmsbox_title").html(title);
+$("#cmsbox iframe").attr("src",url);
+}
+function down_pdf(id)
+{
+if (uid > 0)
+{
+cmsok_box('System Prompts', 'down.php?ac=pdf&id='+id+'&s='+randomstr());
+}
+else
+{
+ajax_login_box();
+}
+}
+function down_iis(id)
+{
+if (uid > 0)
+{
+cmsok_box('System Prompts', 'down.php?ac=iis&id='+id+'&s='+randomstr());
+}
+else
+{
+ajax_login_box();
+}
+}
+
+function down_connector_pdf(id)
+{
+if (uid > 0)
+{
+location.href = 'down_connector_pdf.php?id='+id+'&s='+randomstr();
+//cmsok_box('提示消息', 'down_connector_pdf.php?id='+id+'&s='+randomstr());
+}
+else
+{
+ajax_login_box();
+}
+}
+
+/* Panel model list customized setup */
+function check_attr(obj)
+{
+var s = 0;
+var str = '';
+$(".posinline").each(function(index, element) {
+if ($(this).is(':checked') == true)
+{
+s += 1;
+}
+    });
+
+if (s > 9)
+{
+obj.checked = false;
+alert("You can at most choose 9 items.");
+return ;
+}
+}
+function select_attr()
+{
+var s = 0;
+var str = '';
+$(".posinline").each(function(index, element) {
+if ($(this).is(':checked') == true)
+{
+s += 1;
+str += $(this).val() + '-';
+}
+    });
+
+if (s > 9)
+{
+alert("You can at most choose 9 items.");
+return ;
+}
+
+$.get("panel_list_attr.php?ac=set_cookie", { str:str, panel_show_key:'', rst:randomstr()}, function(data){
+ location.reload()
+});
+}
+function clear_attr()
+{
+$.get("panel_list_attr.php?ac=clear_cookie", { panel_show_key:'', rst:randomstr()}, function(data){
+ location.reload()
+});
+}
+
+function toggle_usersetup()
+{
+$(".usersetup").toggle();
+}
+
+$(document).keyup(function(event){
+if(event.keyCode ==13){
+if ($("#login_box").is(':hidden') == false)
+{
+login_box_check()
+}
+}
+});
+  </script>
+  <style type="text/css">
+   .tablelist tr.set td, .tablelist td.set { background:#FFFFCA}
+.tablelist tr.not td { background:#FFF}
+/*-------------- Login Box --------------*/
+.login_box_bg { display:none;background:#000; position:absolute; left:0px; top:0px; z-index:1000000;filter:alpha(opacity=40);opacity:0.4; width:100%; height:100%}
+.login_box {width:450px; position:absolute; z-index:10000000; background:#FFF; border:solid #9abee2 5px; text-align:left; padding:0px;}
+.login_box h3 { background:#eee; height:30px; line-height:30px; overflow:hidden; padding:0 10px 0 10px; font-size:12px; margin:0px;}
+.login_box h3 a { float:right; font-size:12px; font-weight:normal}
+.login_box .form { padding:30px 0 15px 60px;}
+.login_box .form .indiv { margin-bottom:15px;}
+.login_box .form .inpua { height:40px; width:275px; font-size:14px;border:solid #ccc 1px; padding-left:10px; float:left}
+.login_box .form .ic { float:left; height:40px;width:40px;border:solid #ccc 1px; border-right:none; background:url(cms-templates/cn/images/user_login_icon.png) no-repeat left 0px;}
+.login_box .form .i2 { background-position:left -40px;}
+.login_box .form .i3 { background-position:left -80px;}
+.login_box .form .vcode span { float:left; border:solid #ccc 1px; height:40px; line-height:40px; padding:0 6px 0 6px; border-left:none; background:#f5f5f5}
+.login_box .form .vcode span img { padding-top:7px;}
+.login_box .form .lbbut { width:327px; background:#ff4400; border:none; color:#FFF; font-size:16px; height:40px;-webkit-border-radius:3px;border-radius:3px; font-weight:bold}
+.login_box .form .lbdiv { position:relative}
+.login_box .form .lbdiv .loading { position:absolute; z-index:10; left:110px; top:12px; width:16px; height:16px; display:none}
+.login_box .wjdiv { text-align:center; border-top:solid #eee 1px; background:#f9f9f9; line-height:50px;}
+.login_box .wjdiv a { padding:0 10px 0 10px; color:#6c6c6c}
+.login_box .wjdiv a:hover { color:#ff4400}
+input:-webkit-autofill{-webkit-box-shadow: 0 0 0 1000px white inset;}
+.iframe_login { position:absolute; width:400px; height:250px; z-index:1000}
+/*-------------- CMS Box --------------*/
+.cmsbox_bg { display:none;background:#000; position:absolute; left:0px; top:0px; z-index:10000;filter:alpha(opacity=40);opacity:0.4; width:100%; height:100%}
+.cmsbox {width:390px; height:250px; position:absolute; z-index:1000000; background:#FFF; border:solid #9abee2 5px; text-align:left; padding:0px;}
+.cmsbox h3.title { background:#eee; height:30px; line-height:30px; overflow:hidden; padding:0 10px 0 10px; font-size:12px; margin:0px;}
+.cmsbox h3.title a { float:right; font-size:12px; font-weight:normal}
+.cmsbox_iframe { width:390px; height:220px;}
+
+#fangjia { background:#fff9d9; height:32px; line-height:30px; color:#ff6d00; display:none;}
+#fangjia a { float:right; margin:10px 20px 0 0}
+  </style>
+  <div class="login_box_bg">
+  </div>
+  <div id="login_box" style="display:none;">
+   <div class="login_box">
+    <h3>
+     <a href="javascript:;" onclick='javascript:$(".login_box_bg").hide();$("#login_box").hide();'>
+      Close
+     </a>
+     Sign In
+    </h3>
+    <form action="#" id="login_box_form" method="post" name="login_box_form">
+     <div class="form">
+      <div class="indiv clearfix">
+       <div class="ic i1">
+       </div>
+       <input class="inpua" id="lbusername" name="username" placeholder="Username or Member Email" tabindex="1" value=""/>
+      </div>
+      <div class="indiv clearfix">
+       <div class="ic i2">
+       </div>
+       <input class="inpua" id="lbpassword" name="password" placeholder="Password" tabindex="2" type="password"/>
+      </div>
+      <!-- -->
+      <div class="indiv lbdiv">
+       <input class="lbbut" onclick="login_box_check()" tabindex="4" type="button" value="Sign In"/>
+       <img class="loading" src="cms-templates/en/images/icon/loading-1.gif"/>
+      </div>
+     </div>
+     <div class="wjdiv">
+      <a href="https://panelook.com/lostpass.php">
+       Forgot username?
+      </a>
+      <a href="https://panelook.com/lostpass.php">
+       Forgot password?
+      </a>
+      <a href="https://panelook.com/register.php" target="_blank">
+       Join Free Now
+      </a>
+     </div>
+    </form>
+   </div>
+   <iframe class="iframe_login" frameborder="0" id="iframe_login" marginheight="0" marginwidth="0" name="iframe_login" scrolling="no" width="100%">
+   </iframe>
+  </div>
+  <div class="cmsbox_bg">
+  </div>
+  <div id="cmsbox" style="display:none">
+   <div class="cmsbox">
+    <h3 class="title">
+     <a href="javascript:;" onclick='javascript:$(".cmsbox_bg").hide();$("#cmsbox").hide();'>
+      close
+     </a>
+     <span id="cmsbox_title">
+     </span>
+    </h3>
+    <iframe class="cmsbox_iframe" frameborder="0" marginheight="0" marginwidth="0" width="100%">
+    </iframe>
+   </div>
+  </div>
+  <div class="topnavbg">
+   <div class="topnav">
+    <div class="topnavleft">
+     <ul id="top_member_info">
+      <li class="left">
+      </li>
+      <li class="left user">
+       <a href="https://panelook.com/register.php">
+        Join Free
+       </a>
+       |
+       <a href="javascript:;" onclick="ajax_login_box()" title="Sign In">
+        Sign In
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="topmenu" id="topmenu">
+     <ul>
+      <li>
+       <a class="np" href="https://panelook.com">
+        Home
+       </a>
+      </li>
+      <li>
+       <a class="sp" href="https://panelook.com/member.php?op=ne_product&amp;ac=add" id="topmenu_1" onmouseout='javascript:menu_block("topsubmenu_1","topmenu_1","hide")' onmouseover='javascript:menu_block("topsubmenu_1","topmenu_1","show")'>
+        Sell Product
+       </a>
+       <ul class="topsubmenu" id="topsubmenu_1" onmouseout='javascript:menu_block("topsubmenu_1","topmenu_1","hide")' onmouseover='javascript:menu_block("topsubmenu_1","topmenu_1","show")' style="display:none">
+        <li>
+         <a href="https://panelook.com/member.php?op=panels&amp;ac=send">
+          Post Brand Panel
+         </a>
+        </li>
+        <li>
+         <a href="https://panelook.com/member.php?op=ne_product&amp;ac=add">
+          Post My Own Product
+         </a>
+        </li>
+        <li>
+         <a href="https://panelook.com/member.php?op=inv_add">
+          Post Panel Stock
+         </a>
+        </li>
+        <li>
+         <a href="https://panelook.com/member.php?op=inv_batch">
+          Batch Upload Stock
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a class="sp" href="https://panelook.com/member.php?op=rfq&amp;ac=add" id="topmenu_2" onmouseout='javascript:menu_block("topsubmenu_2","topmenu_2","hide")' onmouseover='javascript:menu_block("topsubmenu_2","topmenu_2","show")'>
+        Buy Panel
+       </a>
+       <ul class="topsubmenu" id="topsubmenu_2" onmouseout='javascript:menu_block("topsubmenu_2","topmenu_2","hide")' onmouseover='javascript:menu_block("topsubmenu_2","topmenu_2","show")' style="display:none">
+        <li>
+         <a href="https://panelook.com/member.php?op=rfq&amp;ac=add">
+          Post Panel RFQ
+         </a>
+        </li>
+        <li>
+         <a href="https://panelook.com/member.php?op=rfq_batch">
+          Batch Upload RFQ
+         </a>
+        </li>
+        <li style="display:none;">
+         <a href="https://panelook.com/member.php?op=alert&amp;typeid=2">
+          Book Panel Stock Alert
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a class="sp" href="https://panelook.com/member.php" id="topmenu_3" onmouseout='javascript:menu_block("topsubmenu_3","topmenu_3","hide")' onmouseover='javascript:menu_block("topsubmenu_3","topmenu_3","show")'>
+        My Panelook
+       </a>
+       <ul class="topsubmenu" id="topsubmenu_3" onmouseout='javascript:menu_block("topsubmenu_3","topmenu_3","hide")' onmouseover='javascript:menu_block("topsubmenu_3","topmenu_3","show")' style="display:none">
+        <li>
+         <a href="https://panelook.com/member.php?op=inquiry">
+          Message Inbox
+         </a>
+        </li>
+        <li>
+         <a href="https://panelook.com/member.php?op=member_upgrade">
+          Upgrade to VIP
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a class="sp" href="https://panelook.com/member.php?op=msgs_box" id="topmenu_4" onmouseout='javascript:menu_block("topsubmenu_4","topmenu_4","hide")' onmouseover='javascript:menu_block("topsubmenu_4","topmenu_4","show")'>
+        Message Drafts
+       </a>
+       <ul class="topsubmenu" id="topsubmenu_4" onmouseout='javascript:menu_block("topsubmenu_4","topmenu_4","hide")' onmouseover='javascript:menu_block("topsubmenu_4","topmenu_4","show")' style="display:none">
+        <li>
+         <a href="https://panelook.com/member.php?op=msgs_box&amp;typeid=0">
+          Inquiry Cart
+         </a>
+        </li>
+        <li>
+         <a href="https://panelook.com/member.php?op=msgs_box&amp;typeid=1">
+          Quote Cart
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a class="sp" href="https://panelook.com/member.php?op=favorite" id="topmenu_5" onmouseout='javascript:menu_block("topsubmenu_5","topmenu_5","hide")' onmouseover='javascript:menu_block("topsubmenu_5","topmenu_5","show")'>
+        My Favorite
+       </a>
+       <ul class="topsubmenu" id="topsubmenu_5" onmouseout='javascript:menu_block("topsubmenu_5","topmenu_5","hide")' onmouseover='javascript:menu_block("topsubmenu_5","topmenu_5","show")' style="display:none">
+        <li>
+         <a href="https://panelook.com/member.php?op=favorite&amp;typeid=1">
+          Brand Panels
+         </a>
+        </li>
+        <li>
+         <a href="https://panelook.com/member.php?op=favorite&amp;typeid=6">
+          Other Products
+         </a>
+        </li>
+        <li>
+         <a href="https://panelook.com/member.php?op=favorite&amp;typeid=2">
+          Panel Stocks
+         </a>
+        </li>
+        <li>
+         <a href="https://panelook.com/member.php?op=favorite&amp;typeid=3">
+          Panel RFQs
+         </a>
+        </li>
+        <li>
+         <a href="https://panelook.com/member.php?op=favorite&amp;typeid=5">
+          Suppliers
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </div>
+    <div class="topnavright">
+     <ul>
+      <li>
+       <a href="javascript:;" onclick="$('.mobile_qrcode').toggle()">
+        <img alt="Mobile" height="16" src="https://panelook.com/cms-templates/en/images/en_mobile.gif" title="Mobile" width="75"/>
+       </a>
+      </li>
+      <li>
+       <a href="http://www.panelook.cn">
+        <img alt="Chinese" height="16" src="https://panelook.com/cms-templates/en/images/cn.gif" title="Chinese Version" width="75"/>
+       </a>
+      </li>
+      <li class="flag2">
+       <a href="https://www.panelook.com">
+        <img alt="English" height="16" src="https://panelook.com/cms-templates/en/images/en.gif" title="English Version" width="70"/>
+       </a>
+      </li>
+     </ul>
+     <div class="mobile_qrcode">
+      <div>
+       <img class="qr" src="https://panelook.com/images/domainqrcode/en.png"/>
+      </div>
+      <a href="http://m.panelook.com">
+       Mobile: m.panelook.com
+      </a>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="wrap clearfix" id="new_header">
+   <div class="logo">
+    <a href="https://panelook.com/index.php">
+     <img alt="Panelook" src="https://panelook.com/cms-templates/en/images/logo.gif" title="&gt;Global Panel Exchange Center"/>
+    </a>
+   </div>
+   <div class="search">
+    <dl class="type" id="nstdl">
+     <dt>
+      Products
+     </dt>
+     <dd>
+      <div>
+       <a href="javascript:;" onclick="selectst(1)">
+        Products
+       </a>
+      </div>
+      <div>
+       <a href="javascript:;" onclick="selectst(2)">
+        Stocks
+       </a>
+      </div>
+      <div>
+       <a href="javascript:;" onclick="selectst(3)">
+        RFQs
+       </a>
+      </div>
+      <div>
+       <a href="javascript:;" onclick="selectst(4)">
+        Suppliers
+       </a>
+      </div>
+     </dd>
+    </dl>
+    <input id="search_type" name="search_type" type="hidden" value="1"/>
+    <div id="nstdiv1" style="float:right">
+     <form action="product_list.php" method="get" onsubmit="return checkpdffrom()">
+      <input autocomplete="off" class="txt search_key" id="searchkey_panel" name="keyword" onkeyup="selectnumber_pdf(this.value);" placeholder="Please enter product name or panel model" type="text" value=""/>
+      <input class="go" type="submit" value="Search"/>
+     </form>
+    </div>
+    <div id="nstdiv2" style="display:none; float:right">
+     <form action="https://panelook.com/inventories.php" method="get" onsubmit="return checkinvform()">
+      <input autocomplete="off" class="txt search_key" id="searchkey_inv" name="keyword" onkeyup="selectnumber_inv(this.value);" placeholder="Please enter panel model" type="text" value=""/>
+      <input class="go" type="submit" value="Search"/>
+     </form>
+    </div>
+    <div id="nstdiv3" style="display:none; float:right">
+     <form action="https://panelook.com/rfqs.php" method="get" onsubmit="return checkrfqform()">
+      <input autocomplete="off" class="txt search_key" id="searchkey_rfq" name="keyword" onkeyup="selectnumber_rfq(this.value);" placeholder="Please enter panel model" type="text" value=""/>
+      <input class="go" type="submit" value="Search"/>
+     </form>
+    </div>
+    <div id="nstdiv4" style="display:none; float:right">
+     <form action="company_yp_list.php" method="get" onsubmit="return checksupform()">
+      <input autocomplete="off" class="txt search_key" id="searchkey_sup" name="keyword" placeholder="Please enter company name" type="text" value=""/>
+      <input class="go" type="submit" value="Search"/>
+     </form>
+    </div>
+    <style type="text/css">
+     #parnumberdiv { position:absolute; width:224px; left:0px; top:23px; background:#FFF; display:none; padding:6px;border:solid #7EADD9 1px; text-align:left}
+        #parnumberdiv p { color:#383838; height:28px; line-height:28px; margin:0; border-bottom:dashed #ddd 1px;}
+        #parnumberdiv p a { display:block; float:left; width:100%;text-indent:5px; color:#383838; }
+        #parnumberdiv p a:hover { background:#fffebb; color:#383838; text-decoration:none}
+        #parnumberdiv p a span { float:right; font-style:normal;}
+        #parnumberdiv iframe { position:absolute; left:0; top:0; z-index:-9999;}
+    </style>
+    <script type="text/javascript">
+     function checkpdffrom()
+{
+var searchkey_panel = document.getElementById("searchkey_panel").value;
+if (searchkey_panel.length < 2)
+{
+alert("Please enter product name or panel model");
+document.getElementById("searchkey_panel").focus();
+return false;
+}
+}
+function checkinvform()
+{
+var searchkey_inv = document.getElementById("searchkey_inv").value;
+if (searchkey_inv.length < 3)
+{
+alert("Please enter panel model");
+document.getElementById("searchkey_inv").focus();
+return false;
+}
+}
+function checkrfqform()
+{
+var searchkey_rfq = document.getElementById("searchkey_rfq").value;
+if (searchkey_rfq.length < 3)
+{
+alert("Please enter panel model");
+document.getElementById("searchkey_rfq").focus();
+return false;
+}
+}
+function checksupform()
+{
+var searchkey_sup = document.getElementById("searchkey_sup").value;
+if (searchkey_sup.length < 2)
+{
+alert("Please enter company name");
+document.getElementById("searchkey_sup").focus();
+return false;
+}
+}
+function selectst(type)
+{
+$("#nstdl").children("dd").hide();
+if (type == 1)
+{
+$("#nstdl dt").html('Products');
+}
+if (type == 2)
+{
+$("#nstdl dt").html('Stocks');
+}
+if (type == 3)
+{
+$("#nstdl dt").html('RFQs');
+}
+if (type == 4)
+{
+$("#nstdl dt").html('Suppliers');
+}
+for (var i = 1 ; i <= 4 ; i ++)
+{
+if (type == i)
+{
+$("#nstdiv"+i).show();
+}
+else
+{
+$("#nstdiv"+i).hide();
+}
+}
+$("#search_type").val(type);
+}
+
+//关联Search
+function selectnumber_pdf(str)
+{
+  if (isChinese(str))
+  {
+  return false;
+  }
+  if (str.length > 5)
+  {
+  $.get("ajax.php?ac=searchnumber&type=pdf&lang=en", { str:str,  rands:randomstr ()}, function(data)
+  {
+  if (data)
+  {
+  $("#parnumberdiv").html(data + '<iframe id="iframe" width="100%" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>');
+  $("#parnumberdiv").show();
+  $("#iframe").height($("#parnumberdiv p").length * 28);
+
+  $("#parnumberdiv").css("top",$("#searchkey_panel").offset().top + $("#searchkey_panel").outerHeight());
+  $("#parnumberdiv").css("left",$("#searchkey_panel").offset().left);
+  $("#parnumberdiv").css("width",$("#searchkey_panel").outerWidth() - 14);
+  }
+  else
+  {
+  closenumber();
+  }
+  });
+  }
+  else
+  {
+  closenumber();
+  }
+}
+
+//关闭面板型号图层
+function closenumber()
+{
+$("#parnumberdiv").hide();
+}
+
+//选择型号
+function thisnumber(str)
+{
+var type = $("#search_type").val();
+
+if (type == 1)
+{
+window.location.href='https://panelook.com/go.php?keyword='+str;
+}
+if (type == 2)
+{
+window.location.href='https://panelook.com/inventories.php?keyword='+str;
+}
+if (type == 3)
+{
+window.location.href='https://panelook.com/rfqs.php?keyword='+str;
+}
+
+
+
+window.event.returnValue = false;
+}
+
+
+//关联Search
+function selectnumber_inv(str)
+{
+  if (isChinese(str))
+  {
+  return false;
+  }
+  if (str.length > 5)
+  {
+  $.get("ajax.php?ac=searchnumber&type=inv&lang=en", { str:str,  rands:randomstr ()}, function(data)
+  {
+  if (data)
+  {
+  $("#parnumberdiv").html(data + '<iframe id="iframe" width="100%" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>');
+  $("#parnumberdiv").show();
+  $("#iframe").height($("#parnumberdiv p").length * 28);
+
+  $("#parnumberdiv").css("top",$("#searchkey_inv").offset().top + $("#searchkey_inv").outerHeight());
+  $("#parnumberdiv").css("left",$("#searchkey_inv").offset().left);
+  $("#parnumberdiv").css("width",$("#searchkey_inv").outerWidth() - 14);
+  }
+  else
+  {
+  closenumber();
+  }
+  });
+  }
+  else
+  {
+  closenumber();
+  }
+}
+//关联Search
+function selectnumber_rfq(str)
+{
+  if (isChinese(str))
+  {
+  return false;
+  }
+  if (str.length > 5)
+  {
+  $.get("ajax.php?ac=searchnumber&type=rfq&lang=en", { str:str,  rands:randomstr ()}, function(data)
+  {
+  if (data)
+  {
+  $("#parnumberdiv").html(data + '<iframe id="iframe" width="100%" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>');
+  $("#parnumberdiv").show();
+  $("#iframe").height($("#parnumberdiv p").length * 28);
+
+  $("#parnumberdiv").css("top",$("#searchkey_rfq").offset().top + $("#searchkey_rfq").outerHeight());
+  $("#parnumberdiv").css("left",$("#searchkey_rfq").offset().left);
+  $("#parnumberdiv").css("width",$("#searchkey_rfq").outerWidth() - 14);
+  }
+  else
+  {
+  closenumber();
+  }
+  });
+  }
+  else
+  {
+  closenumber();
+  }
+}
+    </script>
+   </div>
+   <div class="ads">
+    <a href="modelsearch.php?op=advancedsearch">
+     Advanced
+     <br/>
+     Search
+    </a>
+   </div>
+   <div class="cart">
+    <a href="javascript:;" onclick="login_go('', 'https://panelook.com/member.php?op=msgs_box')">
+     Inquiry Cart (
+     <strong class="top_msg_num">
+      0
+     </strong>
+     )
+    </a>
+   </div>
+  </div>
+  <div class="wrap clearfix" id="new_menu">
+   <dl onmouseout="this.className=''" onmouseover="this.className='cur'">
+    <dt>
+     CATEGORIES
+    </dt>
+    <dd style="height:209px;">
+     <div class="me" onmouseout="this.className='me'" onmouseover="this.className='me cur'">
+      <div>
+       <h4>
+        <a href="product_cat.php?catid=71">
+         TFT CELL, COG, FOG, Q-CUT
+        </a>
+       </h4>
+      </div>
+      <ul>
+       <li class="subcat">
+        <a href="product_cat.php?catid=71">
+         TFT CELL Shipment Type
+        </a>
+       </li>
+       <li class="clearfix">
+        <span class="keytag">
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;shipping_mode=11">
+          Empty Cell
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;shipping_mode=12">
+          Full Cell
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;shipping_mode=21">
+          COG
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;shipping_mode=22">
+          FOG
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;shipping_mode=23">
+          FOB
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;shipping_mode=32">
+          Q-CUT (Empty Cell)
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;shipping_mode=33">
+          Q-CUT (Full Cell)
+         </a>
+        </span>
+       </li>
+       <li class="subcat">
+        TFT CELL Brand
+       </li>
+       <li class="clearfix">
+        <span class="keytag">
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;brand_family=19">
+          BOE
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;brand_family=11">
+          AUO
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;brand_family=63">
+          Innolux
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;brand_family=79">
+          LG Display
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;brand_family=29">
+          CSOT
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;brand_family=28">
+          CPT
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;brand_family=66">
+          IVO
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;brand_family=101">
+          Panda
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;brand_family=120">
+          Sharp
+         </a>
+        </span>
+       </li>
+       <li class="subcat">
+        TFT CELL Application
+       </li>
+       <li class="clearfix">
+        <span class="keytag">
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=3&amp;application=161">
+          Tablet PC
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=3&amp;application=41">
+          Monitor
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=3&amp;application=203">
+          LCD TV
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=0&amp;application=133">
+          Mobile Phone
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=0&amp;application=120">
+          Laptop PC
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=3&amp;application=42">
+          Digital Photo Frame
+         </a>
+        </span>
+       </li>
+       <li class="subcat">
+        TFT CELL Size
+       </li>
+       <li class="clearfix">
+        <span class="keytag">
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;panel_size_inch=350">
+          3.5"
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;panel_size_inch=430">
+          4.3"
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;panel_size_inch=500">
+          5.0"
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;panel_size_inch=700">
+          7"
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;panel_size_inch=800">
+          8"
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;panel_size_inch=1010">
+          10.1"
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;panel_size_inch=1040">
+          10.4"
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;panel_size_inch=1160">
+          11.6"
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;panel_size_inch=1330">
+          13.3"
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;panel_size_inch=1560">
+          15.6"
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;panel_size_inch=1850">
+          18.5"
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;panel_size_inch=2150">
+          21.5"
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;panel_size_inch=2360">
+          23.6"
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;panel_size_inch=2380">
+          23.8"
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;panel_size_inch=2700">
+          27"
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;panel_size_inch=3200">
+          32"
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;panel_size_inch=4000">
+          40"
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;panel_size_inch=4900">
+          49"
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;panel_size_inch=4300">
+          43"
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;panel_size_inch=5500">
+          55"
+         </a>
+         <a href="product_cat.php?catid=71&amp;pl=photo&amp;st=&amp;panel_size_inch=6500">
+          65"
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div class="me" onmouseout="this.className='me'" onmouseover="this.className='me cur'">
+      <div>
+       <h4>
+        <a href="product_cat.php?catid=34">
+         OLED
+        </a>
+        ,
+        <a href="product_cat.php?catid=73">
+         EPD
+        </a>
+        ,
+        <a href="product_cat.php?catid=38">
+         TFT
+        </a>
+        ,
+        <a href="product_cat.php?catid=77">
+         Microdisplay
+        </a>
+       </h4>
+      </div>
+      <ul>
+       <li class="subcat">
+        <a href="product_cat.php?catid=38">
+         TFT-LCD Panel
+        </a>
+       </li>
+       <li class="clearfix">
+        <span class="an">
+         Technology:
+        </span>
+        <span class="ae">
+         <a href="product_cat.php?catid=38&amp;tag=39">
+          Color
+         </a>
+         <a href="product_cat.php?catid=38&amp;tag=40">
+          Mono
+         </a>
+         <a href="product_cat.php?catid=38&amp;tag=41">
+          Wide Temperature
+         </a>
+         <a href="product_cat.php?catid=38&amp;tag=42">
+          High Brightness
+         </a>
+         <a href="product_cat.php?catid=38&amp;tag=46">
+          Transflective
+         </a>
+         <a href="product_cat.php?catid=38&amp;tag=47">
+          Reflective
+         </a>
+         <a href="product_cat.php?catid=38&amp;tag=50">
+          Transparent
+         </a>
+         <a href="product_cat.php?catid=38&amp;tag=49">
+          3D
+         </a>
+         <a href="product_cat.php?catid=38&amp;tag=54">
+          IPS
+         </a>
+         <a href="product_cat.php?catid=38&amp;tag=48">
+          Sunlight Readable
+         </a>
+         <a href="product_cat.php?catid=38&amp;tag=51">
+          Square
+         </a>
+         <a href="product_cat.php?catid=38&amp;tag=52">
+          Circular
+         </a>
+         <a href="product_cat.php?catid=38&amp;tag=53">
+          Bar Shape
+         </a>
+         <a href="product_cat.php?catid=38&amp;tag=43">
+          Resistive Touch
+         </a>
+         <a href="product_cat.php?catid=38&amp;tag=44">
+          Capacitive Touch
+         </a>
+         <a href="product_cat.php?catid=38&amp;tag=45">
+          Electromagnetic Touch
+         </a>
+        </span>
+       </li>
+       <li class="clearfix">
+        <span class="an">
+         Feature:
+        </span>
+        <span class="ae">
+         <a href="product_cat.php?catid=38&amp;tag=51">
+          Square
+         </a>
+         <a href="product_cat.php?catid=38&amp;tag=52">
+          Circular
+         </a>
+         <a href="product_cat.php?catid=38&amp;tag=53">
+          Stretched Bar
+         </a>
+         <a href="product_cat.php?catid=38&amp;tag=43">
+          Resistive Touch
+         </a>
+         <a href="product_cat.php?catid=38&amp;tag=44">
+          Capacitive Touch
+         </a>
+         <a href="product_cat.php?catid=38&amp;tag=45">
+          Electromagnetic Touch
+         </a>
+        </span>
+       </li>
+       <li class="clearfix">
+        <span class="an">
+         Application:
+        </span>
+        <span class="ae">
+         <a href="product_cat.php?catid=38&amp;application=133">
+          Mobile Phone
+         </a>
+         <a href="product_cat.php?catid=38&amp;application=11">
+          Automotive
+         </a>
+         <a href="product_cat.php?catid=38&amp;application=91">
+          Industrial
+         </a>
+         <a href="product_cat.php?catid=38&amp;application=131">
+          Medical
+         </a>
+         <a href="product_cat.php?catid=38&amp;application=161">
+          Pad
+         </a>
+         <a href="product_cat.php?catid=38&amp;application=120">
+          Laptop
+         </a>
+         <a href="product_cat.php?catid=38&amp;application=41">
+          Monitor
+         </a>
+         <a href="product_cat.php?catid=38&amp;application=203">
+          TV
+         </a>
+         <a href="product_cat.php?catid=38&amp;application=168">
+          Signage
+         </a>
+         <a href="product_cat.php?catid=38&amp;application=222">
+          Video Wall
+         </a>
+        </span>
+       </li>
+       <li class="clearfix">
+        <span class="an">
+         Brand:
+        </span>
+        <span class="ae">
+         <a href="product_cat.php?catid=38&amp;pl=photo&amp;st=&amp;brand_family=19">
+          BOE
+         </a>
+         <a href="product_cat.php?catid=38&amp;pl=photo&amp;st=&amp;brand_family=11">
+          AUO
+         </a>
+         <a href="product_cat.php?catid=38&amp;pl=photo&amp;st=&amp;brand_family=63">
+          Innolux
+         </a>
+         <a href="product_cat.php?catid=38&amp;pl=photo&amp;st=&amp;brand_family=79">
+          LG Display
+         </a>
+         <a href="product_cat.php?catid=38&amp;pl=photo&amp;st=&amp;brand_family=29">
+          CSOT
+         </a>
+         <a href="product_cat.php?catid=38&amp;pl=photo&amp;st=&amp;brand_family=66">
+          IVO
+         </a>
+         <a href="product_cat.php?catid=38&amp;pl=photo&amp;st=&amp;brand_family=101">
+          Panda
+         </a>
+         <a href="product_cat.php?catid=38&amp;pl=photo&amp;st=&amp;brand_family=120">
+          Sharp
+         </a>
+        </span>
+       </li>
+       <li class="clearfix">
+        <span class="an">
+         <a href="product_cat.php?catid=34">
+          Graphic OLED
+         </a>
+         &amp;gt;
+        </span>
+        <span class="ae">
+         <a href="product_cat.php?catid=34&amp;tag=35">
+          PMOLED
+         </a>
+         <a href="product_cat.php?catid=34&amp;tag=36">
+          AMOLED
+         </a>
+         <a href="product_cat.php?catid=34&amp;tag=37">
+          Transparent OLED
+         </a>
+         <a href="product_cat.php?catid=34&amp;tag=1129">
+          Flexible OLED
+         </a>
+        </span>
+       </li>
+       <li class="clearfix">
+        <span class="an">
+         <a href="product_cat.php?catid=77">
+          Microdisplay
+         </a>
+         &amp;gt;
+        </span>
+        <span class="ae">
+         <a href="product_cat.php?catid=77&amp;tag=78">
+          Si-OLED Microdisplay
+         </a>
+         <a href="product_cat.php?catid=77&amp;tag=1167">
+          LCD Microdisplay
+         </a>
+         <a href="product_cat.php?catid=77&amp;tag=1166">
+          LCOS Microdisplay
+         </a>
+         <a href="product_cat.php?catid=77&amp;tag=1165">
+          MicroLED Microdisplay
+         </a>
+        </span>
+       </li>
+       <li class="clearfix">
+        <span class="an">
+         <a href="product_cat.php?catid=73">
+          E-Paper
+         </a>
+         &amp;gt;
+        </span>
+        <span class="ae">
+         <a href="product_cat.php?catid=73&amp;tag=74">
+          EPD E-Paper
+         </a>
+         <a href="product_cat.php?catid=73&amp;tag=387">
+          Ch-LCD
+         </a>
+         <a href="product_cat.php?catid=73&amp;tag=388">
+          Monochrome
+         </a>
+         <a href="product_cat.php?catid=73&amp;tag=389">
+          Tri-color
+         </a>
+         <a href="product_cat.php?catid=73&amp;tag=505">
+          Color
+         </a>
+        </span>
+       </li>
+       <li class="clearfix">
+        <span class="an">
+         Other &amp;gt;
+        </span>
+        <span class="ae">
+         <a href="product_cat.php?catid=75">
+          EL, TFEL, Electroluminescent
+         </a>
+         <a href="product_cat.php?catid=77">
+          Micro &amp; Head Mount Display
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div class="me" onmouseout="this.className='me'" onmouseover="this.className='me cur'">
+      <div>
+       <h4>
+        <a href="product_cat.php?catid=90">
+         UART Display
+        </a>
+        ,
+        <a href="product_cat.php?catid=108">
+         Display Kits
+        </a>
+       </h4>
+      </div>
+      <ul>
+       <li class="subcat">
+        <a href="product_cat.php?catid=90">
+         UART Display Module
+        </a>
+       </li>
+       <li class="clearfix">
+        <span class="an">
+         Technology:
+        </span>
+        <span class="ae">
+         <a href="product_cat.php?catid=90&amp;tag=91">
+          Mono
+         </a>
+         <a href="product_cat.php?catid=90&amp;tag=92">
+          Color
+         </a>
+         <a href="product_cat.php?catid=90&amp;tag=93">
+          STN
+         </a>
+         <a href="product_cat.php?catid=90&amp;tag=94">
+          TFT
+         </a>
+         <a href="product_cat.php?catid=90&amp;tag=95">
+          OLED
+         </a>
+         <a href="product_cat.php?catid=90&amp;tag=96">
+          Android
+         </a>
+         <a href="product_cat.php?catid=90&amp;tag=97">
+          PCAP
+         </a>
+         <a href="product_cat.php?catid=90&amp;tag=98">
+          RTP
+         </a>
+         <br/>
+        </span>
+       </li>
+       <li class="clearfix">
+        <span class="an">
+         Interface:
+        </span>
+        <span class="ae">
+         <a href="product_cat.php?catid=90&amp;tag=99">
+          UART
+         </a>
+         <a href="product_cat.php?catid=90&amp;tag=100">
+          RS232 I/F
+         </a>
+         <a href="product_cat.php?catid=90&amp;tag=101">
+          RS485 I/F
+         </a>
+         <a href="product_cat.php?catid=90&amp;tag=102">
+          RS422 I/F
+         </a>
+         <a href="product_cat.php?catid=90&amp;tag=103">
+          USB I/F
+         </a>
+        </span>
+       </li>
+       <li class="clearfix">
+        <span class="an">
+         Size:
+        </span>
+        <span class="ae">
+         <a href="product_cat.php?catid=90&amp;pl=photo&amp;st=&amp;panel_size_inch=280">
+          2.8"
+         </a>
+         <a href="product_cat.php?catid=90&amp;pl=photo&amp;st=&amp;panel_size_inch=350">
+          3.5"
+         </a>
+         <a href="product_cat.php?catid=90&amp;pl=photo&amp;st=&amp;panel_size_inch=400">
+          4.0"
+         </a>
+         <a href="product_cat.php?catid=90&amp;pl=photo&amp;st=&amp;panel_size_inch=430">
+          4.3"
+         </a>
+         <a href="product_cat.php?catid=90&amp;pl=photo&amp;st=&amp;panel_size_inch=500">
+          5.0"
+         </a>
+         <a href="product_cat.php?catid=90&amp;pl=photo&amp;st=&amp;panel_size_inch=700">
+          7.0"
+         </a>
+         <a href="product_cat.php?catid=90&amp;pl=photo&amp;st=&amp;panel_size_inch=800">
+          8.0"
+         </a>
+         <a href="product_cat.php?catid=90&amp;pl=photo&amp;st=&amp;panel_size_inch=1010">
+          10.1"
+         </a>
+        </span>
+       </li>
+       <li class="subcat">
+        <a href="product_cat.php?catid=108">
+         VGA &amp; AV Display Kits
+        </a>
+       </li>
+       <li class="clearfix">
+        <span class="keytag">
+         <a href="product_cat.php?catid=108&amp;tag=1223">
+          HDMI LCD Kits
+         </a>
+         <a href="product_cat.php?catid=108&amp;tag=1206">
+          HDMI+USB LCD Kits
+         </a>
+         <a href="product_cat.php?catid=108&amp;tag=1163">
+          HDMI+DP LCD Kits
+         </a>
+         <a href="product_cat.php?catid=108&amp;tag=112">
+          VGA+DVI LCD Kits
+         </a>
+         <a href="product_cat.php?catid=108&amp;tag=114">
+          VGA+HDMI LCD Kits
+         </a>
+         <a href="product_cat.php?catid=108&amp;tag=113">
+          VGA+DVI+HDMI LCD Kits
+         </a>
+         <a href="product_cat.php?catid=108&amp;tag=109">
+          AV LCD Kits
+         </a>
+         <a href="product_cat.php?catid=108&amp;tag=110">
+          AV+VGA LCD Kits
+         </a>
+         <a href="product_cat.php?catid=108&amp;tag=111">
+          VGA LCD Kits
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div class="me" onmouseout="this.className='me'" onmouseover="this.className='me cur'">
+      <div>
+       <h4>
+        <a href="product_cat.php?catid=278">
+         PCAP
+        </a>
+        ,
+        <a href="product_cat.php?catid=272">
+         RTP
+        </a>
+        ,
+        <a href="product_cat.php?catid=291">
+         IR Touch Panel
+        </a>
+       </h4>
+      </div>
+      <ul>
+       <li class="subcat">
+        <a href="product_cat.php?catid=278">
+         Capacitive Touchscreen
+        </a>
+       </li>
+       <li class="clearfix">
+        <span class="an">
+         Technology:
+        </span>
+        <span class="ae">
+         <a href="product_cat.php?catid=278&amp;tag=279">
+          Surface Capacitive
+         </a>
+         <a href="product_cat.php?catid=278&amp;tag=280">
+          Projective Capacitive Touchscreen
+         </a>
+         <a href="product_cat.php?catid=278&amp;tag=281">
+          Projective Capacitive Touch Film
+         </a>
+        </span>
+       </li>
+       <li class="clearfix">
+        <span class="an">
+         Application:
+        </span>
+        <span class="ae">
+         <a href="product_cat.php?catid=278&amp;tag=282">
+          Mobile Phone
+         </a>
+         <a href="product_cat.php?catid=278&amp;tag=283">
+          Pad
+         </a>
+         <a href="product_cat.php?catid=278&amp;tag=284">
+          Industrial
+         </a>
+         <a href="product_cat.php?catid=278&amp;tag=285">
+          AIO PC
+         </a>
+         <a href="product_cat.php?catid=278&amp;tag=286">
+          Business
+         </a>
+        </span>
+       </li>
+       <li class="subcat">
+        <a href="product_cat.php?catid=291">
+         Infrared Touchscreen
+        </a>
+       </li>
+       <li class="clearfix">
+        <span class="keytag">
+         <a href="product_cat.php?catid=291&amp;tag=292">
+          Single Touch Infrared Touchscreen
+         </a>
+         <a href="product_cat.php?catid=291&amp;tag=293">
+          Multi-touch Infrared Touchscreen
+         </a>
+        </span>
+       </li>
+       <li class="subcat">
+        <a href="product_cat.php?catid=272">
+         Analog Resistive Touchscreen
+        </a>
+       </li>
+       <li class="clearfix">
+        <span class="keytag">
+         <a href="product_cat.php?catid=272&amp;tag=273">
+          4-wire Resistive
+         </a>
+         <a href="product_cat.php?catid=272&amp;tag=274">
+          5-wire Resistive
+         </a>
+         <a href="product_cat.php?catid=272&amp;tag=275">
+          6-wire Resistive
+         </a>
+         <a href="product_cat.php?catid=272&amp;tag=276">
+          7-wire Resistive
+         </a>
+         <a href="product_cat.php?catid=272&amp;tag=277">
+          8-wire Resistive
+         </a>
+        </span>
+       </li>
+       <li class="subcat">
+        <a href="product_cat.php?catid=269">
+         Digital Resistive Touchscreen
+        </a>
+       </li>
+       <li class="clearfix">
+        <span class="keytag">
+         <a href="product_cat.php?catid=269&amp;tag=270">
+          Digital Resistive
+         </a>
+         <a href="product_cat.php?catid=269&amp;tag=271">
+          Digital Matrix Resistive(DMR)
+         </a>
+        </span>
+       </li>
+       <li class="subcat">
+        Other Touchscreen
+       </li>
+       <li class="clearfix">
+        <span class="keytag">
+         <a href="product_cat.php?catid=287">
+          Acoustic Touchscreen
+         </a>
+         <a href="product_cat.php?catid=298">
+          Electromagnetic Touch
+         </a>
+         <a href="product_cat.php?catid=294&amp;tag=295">
+          CMOS Optical Camera Touch
+         </a>
+         <a href="product_cat.php?catid=294&amp;tag=296">
+          CCD Optical Camera Touch
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div class="me" onmouseout="this.className='me'" onmouseover="this.className='me cur'">
+      <div>
+       <h4>
+        <a href="product_cat.php?catid=116">
+         IA Monitor
+        </a>
+        ,
+        <a href="product_cat.php?catid=573">
+         Panel PC
+        </a>
+        ,
+        <a href="product_cat.php?catid=126">
+         HMI
+        </a>
+       </h4>
+      </div>
+      <ul>
+       <li class="subcat">
+        <a href="product_cat.php?catid=116">
+         Industrial Monitor
+        </a>
+       </li>
+       <li class="clearfix">
+        <span class="keytag">
+         <a href="product_cat.php?catid=116&amp;tag=117">
+          Panel Mount Monitor
+         </a>
+         <a href="product_cat.php?catid=116&amp;tag=118">
+          Rack Mount Monitor
+         </a>
+         <a href="product_cat.php?catid=116&amp;tag=119">
+          Wall Mount Monitor
+         </a>
+         <a href="product_cat.php?catid=116&amp;tag=120">
+          Inverse Mount Monitor
+         </a>
+         <a href="product_cat.php?catid=116&amp;tag=121">
+          Open Frame Industrial Monitor
+         </a>
+         <a href="product_cat.php?catid=116&amp;tag=122">
+          Resistive Touch Monitor
+         </a>
+         <a href="product_cat.php?catid=116&amp;tag=123">
+          IR Touch Monitor
+         </a>
+         <a href="product_cat.php?catid=116&amp;tag=125">
+          Capacitive Touch Monitor
+         </a>
+        </span>
+       </li>
+       <li class="subcat">
+        <a href="product_cat.php?catid=573">
+         Industrial Panel/Tablet PC
+        </a>
+       </li>
+       <li class="clearfix">
+        <span class="keytag">
+         <a href="product_cat.php?catid=151&amp;pl=photo&amp;st=&amp;tag=681">
+          Industrial Panel PC
+         </a>
+         <a href="product_cat.php?catid=151&amp;pl=photo&amp;st=&amp;tag=684">
+          Industrial Tablet PC
+         </a>
+         <a href="product_cat.php?catid=151&amp;pl=photo&amp;st=&amp;tag=1160">
+          Fanless Industrial Panel PC
+         </a>
+         <a href="product_cat.php?catid=151&amp;pl=photo&amp;st=&amp;tag=1161">
+          Android Industrial Panel PC
+         </a>
+        </span>
+       </li>
+       <li class="subcat">
+        <a href="product_cat.php?catid=126">
+         Human Machine Interface (HMI)
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="me" onmouseout="this.className='me'" onmouseover="this.className='me cur'">
+      <div>
+       <h4>
+        <a href="product_cat.php?catid=151">
+         Business Monitor
+        </a>
+        ,
+        <a href="product_cat.php?catid=185">
+         Signage
+        </a>
+       </h4>
+      </div>
+      <ul>
+       <li class="subcat">
+        <a href="product_cat.php?catid=151">
+         Business Monitor
+        </a>
+       </li>
+       <li class="clearfix">
+        <span class="keytag">
+         <a href="product_cat.php?catid=151&amp;pl=photo&amp;st=&amp;tag=157">
+          Bar Shape Monitor
+         </a>
+         <a href="product_cat.php?catid=151&amp;pl=photo&amp;st=&amp;tag=155">
+          LCD Touch Monitor
+         </a>
+         <a href="product_cat.php?catid=151&amp;pl=photo&amp;st=&amp;tag=153">
+          4K LCD Monitor
+         </a>
+         <a href="product_cat.php?catid=151&amp;pl=photo&amp;st=&amp;tag=152">
+          Business Desktop Monitor
+         </a>
+         <a href="product_cat.php?catid=151&amp;pl=photo&amp;st=&amp;tag=159">
+          High Brightness Business Monitor
+         </a>
+        </span>
+       </li>
+       <li class="subcat">
+        <a href="product_cat.php?catid=185">
+         Digital Signage
+        </a>
+       </li>
+       <li class="clearfix">
+        <span class="keytag">
+         <a href="product_cat.php?catid=185&amp;pl=photo&amp;st=&amp;tag=215">
+          Metro Route Signage
+         </a>
+         <a href="product_cat.php?catid=185&amp;pl=photo&amp;st=&amp;tag=213">
+          Signage for Bus
+         </a>
+         <a href="product_cat.php?catid=185&amp;pl=photo&amp;st=&amp;tag=186">
+          Wall-Mounted Signage
+         </a>
+         <a href="product_cat.php?catid=185&amp;pl=photo&amp;st=&amp;tag=211">
+          Outdoor Bus Stop Board
+         </a>
+         <a href="product_cat.php?catid=185&amp;pl=photo&amp;st=&amp;tag=217">
+          Transparent Display Showcase
+         </a>
+        </span>
+       </li>
+       <li class="subcat">
+        <a href="product_cat.php?catid=165">
+         LCD Video Wall
+        </a>
+       </li>
+       <li class="clearfix">
+        <span class="keytag">
+         <a href="product_cat.php?catid=165">
+          LCD Video Wall
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div class="me" onmouseout="this.className='me'" onmouseover="this.className='me cur'">
+      <div>
+       <h4>
+        <a href="product_cat.php?catid=2">
+         Segment
+        </a>
+        ,
+        <a href="product_cat.php?catid=7">
+         Character
+        </a>
+        ,
+        <a href="product_cat.php?catid=29">
+         Graphic
+        </a>
+       </h4>
+      </div>
+      <ul>
+       <li class="subcat">
+        <a href="product_cat.php?catid=2">
+         Segment Display
+        </a>
+       </li>
+       <li class="clearfix">
+        <span class="keytag">
+         <a href="product_cat.php?catid=2&amp;tag=3">
+          TN Segment LCD
+         </a>
+         <a href="product_cat.php?catid=2&amp;tag=4">
+          VA Segment LCD
+         </a>
+         <a href="product_cat.php?catid=2&amp;tag=5">
+          HTN Segment LCD
+         </a>
+         <a href="product_cat.php?catid=2&amp;tag=390">
+          STN Segment LCD
+         </a>
+         <a href="product_cat.php?catid=2&amp;tag=391">
+          FSTN Segment LCD
+         </a>
+         <a href="product_cat.php?catid=2&amp;tag=6">
+          FSC LCD
+         </a>
+         <a href="product_cat.php?catid=2&amp;tag=66">
+          EPD
+         </a>
+         <a href="product_cat.php?catid=2&amp;tag=67">
+          Ch-LCD
+         </a>
+        </span>
+       </li>
+       <li class="subcat">
+        <a href="product_cat.php?catid=2">
+         Character Display
+        </a>
+       </li>
+       <li class="clearfix">
+        <span class="keytag">
+         <a href="product_cat.php?catid=7&amp;tag=619">
+          COB Character Module
+         </a>
+         <a href="product_cat.php?catid=7&amp;tag=620">
+          COG Character Module
+         </a>
+         <a href="product_cat.php?catid=7&amp;tag=621">
+          TAB Character Module
+         </a>
+         <a href="product_cat.php?catid=7&amp;tag=622">
+          LCD Character
+         </a>
+         <a href="product_cat.php?catid=7&amp;tag=623">
+          OLED Character
+         </a>
+        </span>
+       </li>
+       <li class="subcat">
+        <a href="product_cat.php?catid=29">
+         Graphic STN Display
+        </a>
+       </li>
+       <li class="clearfix">
+        <span class="keytag">
+         <a href="product_cat.php?catid=29&amp;tag=30">
+          STN Graphic LCD
+         </a>
+         <a href="product_cat.php?catid=29&amp;tag=31">
+          ASTN Graphic LCD
+         </a>
+         <a href="product_cat.php?catid=29&amp;tag=33">
+          CSTN Graphic LCD
+         </a>
+         <a href="product_cat.php?catid=29&amp;tag=32">
+          FSTN Graphic LCD
+         </a>
+         <a href="product_cat.php?catid=29&amp;tag=577">
+          FFSTN Graphic LCD
+         </a>
+        </span>
+       </li>
+       <li class="subcat">
+        <a href="product_cat.php?catid=34">
+         Graphic OLED Display
+        </a>
+       </li>
+       <li class="clearfix">
+        <span class="keytag">
+         <a href="product_cat.php?catid=34&amp;tag=35">
+          PMOLED Display
+         </a>
+         <a href="product_cat.php?catid=34&amp;tag=36">
+          AMOLED Display
+         </a>
+         <a href="product_cat.php?catid=34&amp;tag=37">
+          Transparent OLED Display
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div class="me" onmouseout="this.className='me'" onmouseover="this.className='me cur'">
+      <div>
+       <h4>
+        LCD Boards &amp;amp; Accessories
+       </h4>
+      </div>
+      <ul>
+       <li class="subcat">
+        <a href="product_cat.php?catid=411">
+         LCD Controller Boards
+        </a>
+       </li>
+       <li class="clearfix">
+        <span class="an">
+         Application:
+        </span>
+        <span class="ae">
+         <a href="product_cat.php?catid=411&amp;tag=412">
+          Monitor
+         </a>
+         <a href="product_cat.php?catid=411&amp;tag=413">
+          TV
+         </a>
+         <a href="product_cat.php?catid=411&amp;tag=414">
+          Signage
+         </a>
+         <a href="product_cat.php?catid=411&amp;tag=415">
+          Video Wall
+         </a>
+         <a href="product_cat.php?catid=411&amp;tag=416">
+          Photo Frame
+         </a>
+         <a href="product_cat.php?catid=411&amp;tag=422">
+          Industrial
+         </a>
+        </span>
+       </li>
+       <li class="clearfix">
+        <span class="an">
+         Interface:
+        </span>
+        <span class="ae">
+         <a href="product_cat.php?catid=411&amp;tag=417">
+          V-by-One
+         </a>
+         <a href="product_cat.php?catid=411&amp;tag=418">
+          LVDS
+         </a>
+         <a href="product_cat.php?catid=411&amp;tag=419">
+          TTL
+         </a>
+         <a href="product_cat.php?catid=411&amp;tag=420">
+          eDP
+         </a>
+         <a href="product_cat.php?catid=411&amp;tag=421">
+          UART
+         </a>
+        </span>
+       </li>
+       <li class="clearfix">
+        <span class="an">
+         <a href="product_cat.php?catid=424">
+          LCD Cabinets
+         </a>
+         &amp;gt;
+        </span>
+        <span class="ae">
+         <a href="product_cat.php?catid=424&amp;tag=425">
+          Signage
+         </a>
+         <a href="product_cat.php?catid=424&amp;tag=426">
+          Car
+         </a>
+         <a href="product_cat.php?catid=424&amp;tag=427">
+          Digital Photo
+         </a>
+         <a href="product_cat.php?catid=424&amp;tag=428">
+          TV
+         </a>
+         <a href="product_cat.php?catid=424&amp;tag=429">
+          Monitor
+         </a>
+         <a href="product_cat.php?catid=424&amp;tag=430">
+          Cabinets with Backlight
+         </a>
+         <a href="product_cat.php?catid=424&amp;tag=431">
+          Video Wall Unit
+         </a>
+         <a href="product_cat.php?catid=424&amp;tag=432">
+          Video Wall Stands
+         </a>
+        </span>
+       </li>
+       <li class="clearfix">
+        <span class="an">
+         <a href="product_cat.php?catid=434">
+          LCD Power
+         </a>
+         &amp;gt;
+        </span>
+        <span class="ae">
+         <a href="product_cat.php?catid=434&amp;tag=435">
+          Power Adapters
+         </a>
+         <a href="product_cat.php?catid=434&amp;tag=436">
+          CCFL Power Board
+         </a>
+         <a href="product_cat.php?catid=434&amp;tag=437">
+          CCFL LIPS Board
+         </a>
+         <a href="product_cat.php?catid=434&amp;tag=438">
+          LED Power Board
+         </a>
+         <a href="product_cat.php?catid=434&amp;tag=439">
+          LED LIPS Board
+         </a>
+        </span>
+       </li>
+       <li class="clearfix">
+        <span class="an">
+         B/L Drivers &amp;gt;
+        </span>
+        <span class="ae">
+         <a href="product_cat.php?catid=440">
+          CCFL Inverters
+         </a>
+         <a href="product_cat.php?catid=441">
+          LED Backlight Drivers
+         </a>
+        </span>
+       </li>
+       <li class="clearfix">
+        <span class="an">
+         <a href="product_cat.php?catid=449">
+          LCD Cables
+         </a>
+         &amp;gt;
+        </span>
+        <span class="ae">
+         <a href="product_cat.php?catid=449&amp;tag=450">
+          LVDS Cables
+         </a>
+         <a href="product_cat.php?catid=449&amp;tag=451">
+          TTL Cables
+         </a>
+         <a href="product_cat.php?catid=449&amp;tag=452">
+          eDP Cables
+         </a>
+         <a href="product_cat.php?catid=449&amp;tag=453">
+          V-by-One Cables
+         </a>
+        </span>
+       </li>
+       <li class="clearfix">
+        <span class="an">
+         <a href="product_cat.php?catid=464">
+          Transfer
+         </a>
+         &amp;gt;
+        </span>
+        <span class="ae">
+         <a href="product_cat.php?catid=464&amp;tag=465">
+          TTL to TTL
+         </a>
+         <a href="product_cat.php?catid=464&amp;tag=497">
+          TTL to LVDS
+         </a>
+         <a href="product_cat.php?catid=464&amp;tag=498">
+          LVDS to TTL
+         </a>
+         <a href="product_cat.php?catid=464&amp;tag=499">
+          LVDS to eDP
+         </a>
+         <a href="product_cat.php?catid=464&amp;tag=500">
+          LVDS to V-by-One
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+    </dd>
+   </dl>
+   <ul class="nav clearfix">
+    <li style="display:none">
+     <a href="https://panelook.com/index.php">
+      Home
+     </a>
+    </li>
+    <li>
+     <a href="https://panelook.com/modelsearch.php?op=brand">
+      Brand
+     </a>
+    </li>
+    <li>
+     <a href="https://panelook.com/modelsearch.php?op=size">
+      Size
+     </a>
+    </li>
+    <li>
+     <a href="https://panelook.com/modelsearch.php?op=application">
+      Application
+     </a>
+    </li>
+    <li>
+     <a href="https://panelook.com/modelsearch.php?op=resolution">
+      Resolution
+     </a>
+    </li>
+    <li>
+     <a href="https://panelook.com/connector_brand.php">
+      Connector
+     </a>
+    </li>
+    <li>
+     <a href="https://panelook.com/modelsearch.php?op=advancedsearch">
+      Advanced Search
+     </a>
+    </li>
+    <li>
+     <a href="https://panelook.com/inventories.php">
+      Panel Stocks
+     </a>
+    </li>
+    <li>
+     <a href="https://panelook.com/rfqs.php">
+      Panel RFQs
+     </a>
+    </li>
+    <li>
+     <a href="company_yp_list.php">
+      Companies
+     </a>
+    </li>
+   </ul>
+  </div>
+  <script type="text/javascript">
+   $(document).ready(function () {
+para_nav_position();
+
+//左侧导航点击滑动效果
+$("#para_nav_li a").each(function(index, element) {
+        $(this).click(function(){
+$('body,html').animate({ scrollTop: $('.model_part').eq(index).offset().top - 8 }, 360);
+});
+    });
+});
+$(window).resize(function(){
+para_nav_position()
+});
+
+
+
+function para_nav_position()
+{
+var window_width = $(window).width();
+if (window_width < 1280)
+{
+$(".para_nav").hide();
+}
+else
+{
+var left = (window_width - 1200) / 2 - 95;
+$(".para_nav").css("left", left + 'px');
+$(".para_nav").show(300);
+}
+}
+
+function cmsbox_close_down()
+{
+setTimeout(function(){
+
+$(".cmsbox_bg").hide();
+$("#cmsbox").hide();
+
+},500);
+}
+  </script>
+  <div id="container" style="text-align:left;">
+   <div id="pathline">
+    <!--Path line, Begin -->
+    <ul itemscope="" itemtype="http://schema.org/BreadcrumbList">
+     <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+      <img border="0" height="10" src="https://panelook.com/cms-templates/en/images/icon/icon_home.gif" width="11"/>
+      <a href="https://panelook.com" itemprop="item">
+       <span itemprop="name">
+        Home
+       </span>
+      </a>
+      <meta content="1" itemprop="position"/>
+     </li>
+     <li>
+      &gt;
+     </li>
+     <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+      <a href="https://panelook.com/modelsearch.php?op=size" itemprop="item">
+       <span itemprop="name">
+        Panel Size
+       </span>
+      </a>
+      <meta content="2" itemprop="position"/>
+     </li>
+     <li>
+      &gt;
+     </li>
+     <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+      <a href="https://panelook.com/sizmodlist.php?sizes[]=71" itemprop="item">
+       <span itemprop="name">
+        0.71"
+       </span>
+      </a>
+      <meta content="3" itemprop="position"/>
+     </li>
+     <li>
+      &gt;
+     </li>
+     <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+      <a href="https://panelook.com/ECX335SN-6_Sony_0.71_OLED_overview_45369.html" itemprop="item">
+       <span itemprop="name">
+        ECX335SN-6
+       </span>
+      </a>
+      <meta content="4" itemprop="position"/>
+     </li>
+     <li>
+      &gt;
+     </li>
+     <li>
+      Overview
+     </li>
+    </ul>
+   </div>
+   <!--Path line, End -->
+   <a id="pageHead" name="pageHead">
+   </a>
+   <div class="model_name clearfix">
+    <h1>
+     <a href="https://panelook.com/ECX335SN-6_Sony_0.71_OLED_overview_45369.html" title="Sony ECX335SN-6">
+      <strong>
+       ECX335SN-6
+      </strong>
+     </a>
+    </h1>
+   </div>
+   <div class="model_desc">
+    Ultra High Brightness，U/D,L/R Reverse   Video I/F:Mini-LVDS, YCbCr
+   </div>
+   <div class="model_nav clearfix">
+    <a class="here" href="https://panelook.com/ECX335SN-6_Sony_0.71_OLED_overview_45369.html">
+     Overview
+    </a>
+    <a href="https://panelook.com/ECX335SN-6_Sony_0.71_OLED_parameter_45369.html">
+     Specs
+    </a>
+    <a href="https://panelook.com/ECX335SN-6_Sony_0.71_OLED_inventory_45369.html">
+     Stocks
+    </a>
+    <a href="https://panelook.com/ECX335SN-6_Sony_0.71_OLED_supplier_45369.html">
+     Suppliers
+    </a>
+    <a class="disable" title="No touch panel">
+     Touch Panels
+    </a>
+    <a class="disable" title="No odm panel">
+     OEM/ODM
+    </a>
+    <a class="disable" title="No RFQ">
+     RFQs
+    </a>
+    <a class="disable" title="No driver kit">
+     Driver Kits
+    </a>
+   </div>
+   <!--Overview Navigation, Begin-->
+   <div class="para_nav">
+    <div class="box">
+     <div class="line" id="para_nav_line">
+     </div>
+     <ul class="nav" id="para_nav_li">
+      <li>
+       <a class="cur" href="#ECX335SN-6_Panel_Spec">
+        Tech Specs
+        <span class="icon1">
+         <span>
+         </span>
+        </span>
+       </a>
+      </li>
+      <li>
+       <a href="#ECX335SN-6_Stock_List">
+        Stock List
+        <span class="icon1">
+         <span>
+         </span>
+        </span>
+       </a>
+      </li>
+      <li>
+       <a href="#ECX335SN-6_Suppliers">
+        Suppliers
+        <span class="icon1">
+         <span>
+         </span>
+        </span>
+       </a>
+      </li>
+      <li>
+       <a href="#ECX335SN-6_Datasheets">
+        Datasheets
+        <span class="icon1">
+         <span>
+         </span>
+        </span>
+       </a>
+      </li>
+      <li>
+       <a href="#ECX335SN-6_Photos">
+        Photos
+        <span class="icon1">
+         <span>
+         </span>
+        </span>
+       </a>
+      </li>
+      <li>
+       <a href="#ECX335SN-6_Summary">
+        Summary
+        <span class="icon1">
+         <span>
+         </span>
+        </span>
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <!--Overview Navigation, End-->
+   <div class="clearfix" itemscope="" itemtype="https://schema.org/Product">
+    <div id="ov_left_row">
+     <!--Left Row, Begin-->
+     <a name="ECX335SN-6_Panel_Spec">
+     </a>
+     <div class="model_block model_part mt1">
+      <div class="head clearfix">
+       <span class="iconb">
+       </span>
+       <span class="more">
+        View: 6127
+       </span>
+       <h2 title="Sony ECX335SN-6 General Features">
+        Sony ECX335SN-6 General Features
+       </h2>
+      </div>
+      <div class="cent clearfix">
+       <div id="ov_wrap_hl">
+        <!--Left Wrap, Begin-->
+        <div style="padding:2px;">
+         <script language="javascript" src="https://panelook.com/cms-includes/js/superslide.2.1.js">
+         </script>
+         <style>
+          .fullSlide_panel {width:100%;position:relative;height:206px;}
+.fullSlide_panel .bd {margin:0 auto;position:relative;z-index:0;overflow:hidden;}
+.fullSlide_panel .bd ul {width:100% !important;}
+.fullSlide_panel .bd li {width:100% !important;height:206px;overflow:hidden;text-align:center;}
+.fullSlide_panel .hd {width:100%;position:absolute;z-index:1;bottom:0;left:0;height:30px;line-height:30px;}
+.fullSlide_panel .hd ul {text-align:center;}
+.fullSlide_panel .hd ul li {cursor:pointer;display:inline-block;*display:inline;zoom:1;width:12px;height:12px;margin:5px;overflow:hidden;background:#FFF;
+-webkit-border-radius:6px;border-radius:6px; line-height:999px;}
+.fullSlide_panel .hd ul .on {background:#ae0840;}
+
+/*
+.fullSlide_panel .prev {display:block;position:absolute;z-index:1; left:20px; top:245px; width:40px; height:70px; background:url(images/slider_btn_icon_1fac543.png) no-repeat -46px -87px; cursor:pointer; display:none}
+.fullSlide_panel .next {display:block;position:absolute;z-index:1; right:20px; top:245px; width:40px; height:70px; background:url(images/slider_btn_icon_1fac543.png) no-repeat -46px 0px; cursor:pointer; display:none}<br />
+*/
+         </style>
+         <div class="fullSlide_panel">
+          <div class="bd">
+           <ul>
+            <li>
+             <a href="https://panelook.com/images/202203/1647251010627434.jpg" target="_blank">
+              <img alt="ECX335SN-6" height="206" itemprop="image" src="https://panelook.com/images/202203/1647251010152045.jpg" title="ECX335SN-6 big photo" width="274"/>
+             </a>
+            </li>
+            <li>
+             <a href="https://panelook.com/images/202012/1609308480515237.jpg" target="_blank">
+              <img alt="ECX335SN-6" height="206" itemprop="image" src="https://panelook.com/images/202012/1609308480281724.jpg" title="ECX335SN-6 big photo" width="274"/>
+             </a>
+            </li>
+            <li>
+             <a href="https://panelook.com/images/202006/1592363942232385.jpg" target="_blank">
+              <img alt="ECX335SN-6" height="206" itemprop="image" src="https://panelook.com/images/202006/1592363942409142.jpg" title="ECX335SN-6 big photo" width="274"/>
+             </a>
+            </li>
+            <li>
+             <a href="https://vitrolight.panelook.com/" onclick="return ad_click('102', 40)" target="_blank">
+              <img alt="Stretched Bar LCD" height="206" src="images/ad/201904081556422009.jpg" title="Stretched Bar LCD" width="274"/>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div class="hd">
+           <ul>
+           </ul>
+          </div>
+          <span class="prev">
+          </span>
+          <span class="next">
+          </span>
+         </div>
+         <script type="text/javascript">
+          //jQuery(".fullSlide_panel").hover(function() {
+//jQuery(this).find(".prev,.next").stop(true, true).fadeTo("show", 0.5)
+//},
+//function() {
+//jQuery(this).find(".prev,.next").fadeOut()
+//});
+jQuery(".fullSlide_panel").slide({
+titCell: ".hd ul",
+mainCell: ".bd ul",
+effect: "fold",
+autoPlay: true,
+autoPage: true,
+trigger: "click",
+interTime:'3000'
+});
+         </script>
+        </div>
+        <ul class="model_statistics clearfix" itemprop="additionalProperty" itemscope="" itemtype="https://schema.org/PropertyValue">
+         <li>
+          Panel Stocks
+          <br/>
+          <a href="https://panelook.com/ECX335SN-6_Sony_0.71_OLED_inventory_45369.html">
+           <b>
+            5333
+           </b>
+           pcs
+          </a>
+         </li>
+         <li style="border-right:none">
+          Long Term Suppliers
+          <br/>
+          <a href="https://panelook.com/ECX335SN-6_Sony_0.71_OLED_supplier_45369.html">
+           <b>
+            6
+           </b>
+           items
+          </a>
+         </li>
+         <li>
+          Panel RFQs
+          <br/>
+          No
+         </li>
+         <li style="border-right:none">
+          <span itemprop="name">
+           Production State
+          </span>
+          <br/>
+          <span itemprop="value">
+           <span class="green_b">
+            In Production
+           </span>
+           <img align="absmiddle" height="12" src="https://panelook.com/cms-templates/cn/images/icon/p14.gif" width="12"/>
+          </span>
+         </li>
+         <li>
+          Customer Sample
+          <br/>
+          2018,Q4
+         </li>
+         <li style="border-right:none">
+          <span itemprop="name">
+           Mass Production
+          </span>
+          <br/>
+          <span itemprop="value">
+           2019,Q1
+          </span>
+         </li>
+         <li>
+          Last Time Buy
+          <br/>
+          --
+         </li>
+         <li style="border-right:none">
+          Last Time Shipment
+          <br/>
+          --
+         </li>
+         <li>
+          <img alt="" height="10" src="https://panelook.com/cms-templates/en/images/icon/p02.gif" width="7"/>
+          <a href="https://panelook.com/member.php?op=panelfile&amp;ac=img_up&amp;panel_id=45369" rel="nofollow" target="_blank">
+           Upload photo
+          </a>
+         </li>
+         <li style="border-right:none">
+          <a href="https://panelook.com/member.php?op=inv_add&amp;panel_id=45369" rel="nofollow" target="_blank">
+           <img align="absbottom" alt="Post" height="16" src="https://panelook.com/cms-templates/en/images/icon/i_post_12.gif" width="16"/>
+           Post Stock
+          </a>
+         </li>
+         <li style="border-bottom:none;">
+          <img alt="" height="10" src="https://panelook.com/cms-templates/en/images/icon/p02.gif" width="7"/>
+          <a href="https://panelook.com/member.php?op=panelfile&amp;ac=eol_up&amp;panel_id=45369" rel="nofollow" target="_blank">
+           Upload EOL
+          </a>
+         </li>
+         <li style="border-right:none; border-bottom:none;">
+          <a href="https://panelook.com/member.php?op=rfq&amp;ac=add&amp;panel_id=45369" rel="nofollow" target="_blank">
+           <img align="absbottom" alt="Post" height="16" src="https://panelook.com/cms-templates/en/images/icon/i_post_12.gif" width="16"/>
+           Post RFQ
+          </a>
+         </li>
+        </ul>
+       </div>
+       <!--Left Wrap, End-->
+       <div id="ov_wrap_hc" style="border-left:solid #eee 0px;">
+        <!--Center Wrap, Begin-->
+        <div class="dewrapB">
+         <ul class="tabconpic">
+          <li>
+           <img alt="Ultra High Brightness" height="25" src="https://panelook.com/images/specific_feature/UHB.gif" title="Ultra High Brightness" width="50"/>
+          </li>
+          <li>
+           <img alt="U/D,L/R Reverse" height="25" src="https://panelook.com/images/specific_feature/UDLR_Reverse.gif" title="U/D,L/R Reverse" width="50"/>
+          </li>
+         </ul>
+        </div>
+        <div class="dewrapB">
+         <!--General Features, Begin-->
+         <div class="gftab_dl_fix clearfix" itemprop="additionalProperty" itemscope="" itemtype="https://schema.org/PropertyValue">
+          <dl class="dl4 clearfix">
+           <dt itemprop="name">
+            Brand
+           </dt>
+           <dd itemprop="value">
+            <a href="https://panelook.com/bramodlist.php?brands[]=124" title="All Sony panel models">
+             Sony
+            </a>
+           </dd>
+           <dt class="r" itemprop="name">
+            Model P/N
+           </dt>
+           <dd class="r" itemprop="value">
+            <a href="ECX335SN-6_Sony_0.71_OLED_parameter_45369.html" title="ECX335SN-6 full specification">
+             ECX335SN-6
+            </a>
+            <span style="margin-left:10px;">
+            </span>
+           </dd>
+          </dl>
+          <dl class="dl4 clearfix">
+           <dt itemprop="name">
+            Diagonal Size
+           </dt>
+           <dd itemprop="value">
+            <a href="https://panelook.com/sizmodlist.php?sizes[]=71" title="All panels of 0.71 inch">
+             0.71"
+            </a>
+           </dd>
+           <dt class="r" itemprop="name">
+            Panel Type
+           </dt>
+           <dd class="r" itemprop="value">
+            Si-OLED, OLED
+           </dd>
+          </dl>
+          <dl class="dl4 clearfix">
+           <dt itemprop="name">
+            Resolution
+           </dt>
+           <dd itemprop="value">
+            1920(RGB)×1080, FHD  3078PPI
+           </dd>
+           <dt class="r" itemprop="name">
+            Pixel Format
+           </dt>
+           <dd class="r" itemprop="value">
+            RGB Delta
+           </dd>
+          </dl>
+          <dl class="dl4 clearfix">
+           <dt itemprop="name">
+            Active Area
+           </dt>
+           <dd itemprop="value">
+            15.8(W)×8.99(H) mm
+           </dd>
+           <dt class="r" itemprop="name">
+            Bezel Opening
+           </dt>
+           <dd class="r" itemprop="value">
+            -
+           </dd>
+          </dl>
+         </div>
+         <div id="page_html">
+         </div>
+         <script>
+          $.get("ajax_page_en.php?ac=modeldetail_info", { id:"45369" }, function(data){
+                          $("#page_html").html(data);
+                       });
+         </script>
+        </div>
+        <!--General Features, End-->
+        <div style="clear:both">
+        </div>
+       </div>
+       <!--Center Wrap, End-->
+      </div>
+     </div>
+     <!--Left Row-TOP, End-->
+     <!--Panel Inventory, Begin-->
+     <a name="ECX335SN-6_Stock_List">
+     </a>
+     <div class="model_block model_block_y model_part mt1">
+      <div class="head clearfix">
+       <span class="iconb">
+       </span>
+       <a class="more" href="https://panelook.com/ECX335SN-6_Sony_0.71_OLED_inventory_45369.html">
+        Totally 3 items stock &gt;&gt;More
+       </a>
+       <h2 title="Sony ECX335SN-6 VIP Stocks">
+        Sony ECX335SN-6 VIP Stocks
+       </h2>
+      </div>
+      <div class="cent clearfix">
+       <div class="model_vip_inv ea_model_inv clearfix">
+        <div class="item" style=" position:relative;  ">
+         <div class="one clearfix">
+          <img align="absmiddle" alt="China Mainland" src="https://panelook.com/images/flag/45.gif" title="China Mainland"/>
+          <a href="https://boruijs.panelook.com" target="_blank" title="Shanghai Boruijs Electronic Technology Co., Ltd.">
+           Shanghai Boruijs Electronic Technology Co., L
+          </a>
+          <img align="absmiddle" height="16" src="https://www.panelook.com/cms-templates/en/images/icon/vip.gif" title="VIP Member" width="16"/>
+          <strong style="color:#C00">
+           2nd
+          </strong>
+          Year
+          <a class="inquiry_now" href="javascript:;" onclick="login_go('', 'https://panelook.com/member.php?op=msgs_send&amp;items[invid][]=243559-225675')" rel="nofollow">
+           Inquire Now
+          </a>
+          <a class="cart" href="javascript:;" onclick="model_add_inquiry('invid', '243559-225675'); $(this).toggleClass('cart_cur')" rel="nofollow" title="Add to inquiry cart">
+          </a>
+         </div>
+         <div class="tow clearfix">
+          <a class="det" href="ECX335SN-6_Sony_0.71_OLED_invitemdetail_243559.html" target="_blank">
+           <div class="il">
+            <div>
+             New Original sealed, A Rank
+            </div>
+            <div>
+             250 pcs in China Mainland, MOQ 2 pcs
+            </div>
+            <div style="color:#096F00;">
+             1 week delivery
+             <span id="view_price_243559" style="padding-left:20px;">
+             </span>
+             <div class="detail_arrow">
+              Detail
+             </div>
+            </div>
+           </div>
+          </a>
+          <a href="javascript:;" onclick="com_contact('225675', 'inv', '243559')">
+           <div class="ir">
+            <div class="im clearfix">
+             <span>
+              <img alt="Tel" src="https://panelook.com/cms-templates/en/images/icon/icon_tel1.png"/>
+             </span>
+             <span>
+              <img alt="QQ" src="https://panelook.com/cms-templates/en/images/icon/icon_qq1.png"/>
+             </span>
+             <span>
+              <img alt="Skype" src="https://panelook.com/cms-templates/en/images/icon/icon_skype1.png"/>
+             </span>
+            </div>
+            <div class="bz">
+             <span id="tag_inv_243559">
+             </span>
+            </div>
+           </div>
+          </a>
+         </div>
+        </div>
+        <div class="item" style=" position:relative;  ">
+         <div class="one clearfix">
+          <img align="absmiddle" alt="China Mainland" src="https://panelook.com/images/flag/45.gif" title="China Mainland"/>
+          <a href="https://top-electronic.panelook.com" target="_blank" title="Shenzhen Top Electronic Parts Co., Limited">
+           Shenzhen Top Electronic Parts Co., Limited
+          </a>
+          <img align="absmiddle" height="16" src="https://www.panelook.com/cms-templates/en/images/icon/vip.gif" title="VIP Member" width="16"/>
+          <strong style="color:#C00">
+           9th
+          </strong>
+          Year
+          <a class="inquiry_now" href="javascript:;" onclick="login_go('', 'https://panelook.com/member.php?op=msgs_send&amp;items[invid][]=211525-96864')" rel="nofollow">
+           Inquire Now
+          </a>
+          <a class="cart" href="javascript:;" onclick="model_add_inquiry('invid', '211525-96864'); $(this).toggleClass('cart_cur')" rel="nofollow" title="Add to inquiry cart">
+          </a>
+         </div>
+         <div class="tow clearfix">
+          <a class="det" href="ECX335SN-6_Sony_0.71_OLED_invitemdetail_211525.html" target="_blank">
+           <div class="il">
+            <div>
+             New Other new panel, A Grade
+            </div>
+            <div>
+             900 pcs in China Mainland, MOQ 2 pcs
+            </div>
+            <div style="color:#096F00;">
+             Right Now delivery
+             <span id="view_price_211525" style="padding-left:20px;">
+             </span>
+             <div class="detail_arrow">
+              Detail
+             </div>
+            </div>
+           </div>
+          </a>
+          <a href="javascript:;" onclick="com_contact('96864', 'inv', '211525')">
+           <div class="ir">
+            <div class="im clearfix">
+             <span>
+              <img alt="Tel" src="https://panelook.com/cms-templates/en/images/icon/icon_tel1.png"/>
+             </span>
+             <span>
+              <img alt="QQ" src="https://panelook.com/cms-templates/en/images/icon/icon_qq1.png"/>
+             </span>
+             <span>
+              <img alt="Skype" src="https://panelook.com/cms-templates/en/images/icon/icon_skype1.png"/>
+             </span>
+            </div>
+            <div class="bz">
+             <span id="tag_inv_211525">
+             </span>
+            </div>
+           </div>
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div style="clear:both">
+     </div>
+     <!--Panel Inventory, End-->
+     <!--VIP Supplier, Begin-->
+     <a name="ECX335SN-6_Suppliers">
+     </a>
+     <div class="model_block model_block_y model_part mt1">
+      <div class="head clearfix">
+       <span class="iconb">
+       </span>
+       <a class="more" href="https://panelook.com/ECX335SN-6_Sony_0.71_OLED_supplier_45369.html">
+        Totally 9 suppliers &gt;&gt;More
+       </a>
+       <h2 title="Sony ECX335SN-6 VIP Supplier">
+        <strong>
+         Sony ECX335SN-6 VIP Suppliers
+        </strong>
+       </h2>
+      </div>
+      <div class="cent clearfix">
+       <div class="model_vip_inv ea_model_sup clearfix">
+        <div class="item">
+         <div class="one clearfix">
+          <img align="absmiddle" alt="China Mainland" src="https://panelook.com/images/flag/45.gif" title="China Mainland"/>
+          <a href="https://eurotech.panelook.com" target="_blank" title="Hongkong Eurotech Electronics Co., Ltd.">
+           Hongkong Eurotech Electronics Co., Ltd.
+          </a>
+          <img align="absmiddle" height="16" src="https://www.panelook.com/cms-templates/en/images/icon/vip.gif" title="VIP Member" width="16"/>
+          <strong style="color:#C00">
+           12th
+          </strong>
+          Year
+          <a class="inquiry_now" href="javascript:;" onclick="login_go('', 'https://panelook.com/member.php?op=msgs_send&amp;items[sup][]=45369-36216')" rel="nofollow">
+           Inquire Now
+          </a>
+          <a class="cart" href="javascript:;" onclick="model_add_inquiry('sup', '45369-36216'); $(this).toggleClass('cart_cur')" rel="nofollow">
+          </a>
+         </div>
+         <div class="tow clearfix">
+          <div class="il">
+           <div>
+            ECX335SN-6 long-term supply
+            <br/>
+            Trading
+           </div>
+           <div class="clearfix">
+            <img src="https://panelook.com/cms-templates/cn/images/icon/map_biaozhu.png" style="width:12px; height:12px; float:left; margin:6px 3px 0 0"/>
+            Shenzhen
+           </div>
+          </div>
+          <a href="javascript:;" onclick="com_contact('36216', 'sup', '45369')">
+           <div class="ir">
+            <div class="im clearfix">
+             <span>
+              <img alt="Tel" src="https://panelook.com/cms-templates/en/images/icon/icon_tel1.png"/>
+             </span>
+             <span>
+              <img alt="QQ" src="https://panelook.com/cms-templates/en/images/icon/icon_qq1.png"/>
+             </span>
+             <span>
+              <img alt="Skype" src="https://panelook.com/cms-templates/en/images/icon/icon_skype1.png"/>
+             </span>
+            </div>
+            <div class="bz">
+             <span id="tag_sup_45369">
+             </span>
+            </div>
+           </div>
+          </a>
+         </div>
+        </div>
+        <div class="item">
+         <div class="one clearfix">
+          <img align="absmiddle" alt="China Mainland" src="https://panelook.com/images/flag/45.gif" title="China Mainland"/>
+          <a href="https://muzeinfo.panelook.com" target="_blank" title="Jiaxing Muze Service  Co., Limited">
+           Jiaxing Muze Service  Co., Limited
+          </a>
+          <img align="absmiddle" height="16" src="https://www.panelook.com/cms-templates/en/images/icon/vip.gif" title="VIP Member" width="16"/>
+          <strong style="color:#C00">
+           2nd
+          </strong>
+          Year
+          <a class="inquiry_now" href="javascript:;" onclick="login_go('', 'https://panelook.com/member.php?op=msgs_send&amp;items[sup][]=45369-237627')" rel="nofollow">
+           Inquire Now
+          </a>
+          <a class="cart" href="javascript:;" onclick="model_add_inquiry('sup', '45369-237627'); $(this).toggleClass('cart_cur')" rel="nofollow">
+          </a>
+         </div>
+         <div class="tow clearfix">
+          <div class="il">
+           <div>
+            ECX335SN-6 long-term supply
+            <br/>
+            Trading
+           </div>
+           <div class="clearfix">
+            <img src="https://panelook.com/cms-templates/cn/images/icon/map_biaozhu.png" style="width:12px; height:12px; float:left; margin:6px 3px 0 0"/>
+            Jiaxing
+           </div>
+          </div>
+          <a href="javascript:;" onclick="com_contact('237627', 'sup', '45369')">
+           <div class="ir">
+            <div class="im clearfix">
+             <span>
+              <img alt="Tel" src="https://panelook.com/cms-templates/en/images/icon/icon_tel1.png"/>
+             </span>
+             <span>
+              <img alt="QQ" src="https://panelook.com/cms-templates/en/images/icon/icon_qq1.png"/>
+             </span>
+             <span>
+              <img alt="Skype" src="https://panelook.com/cms-templates/en/images/icon/icon_skype1.png"/>
+             </span>
+            </div>
+            <div class="bz">
+             <span id="tag_sup_45369">
+             </span>
+            </div>
+           </div>
+          </a>
+         </div>
+        </div>
+        <div class="item">
+         <div class="one clearfix">
+          <img align="absmiddle" alt="China Mainland" src="https://panelook.com/images/flag/45.gif" title="China Mainland"/>
+          <a href="https://boruijs.panelook.com" target="_blank" title="Shanghai Boruijs Electronic Technology Co., Ltd.">
+           Shanghai Boruijs Electronic Technology Co., L
+          </a>
+          <img align="absmiddle" height="16" src="https://www.panelook.com/cms-templates/en/images/icon/vip.gif" title="VIP Member" width="16"/>
+          <strong style="color:#C00">
+           2nd
+          </strong>
+          Year
+          <a class="inquiry_now" href="javascript:;" onclick="login_go('', 'https://panelook.com/member.php?op=msgs_send&amp;items[sup][]=45369-225675')" rel="nofollow">
+           Inquire Now
+          </a>
+          <a class="cart" href="javascript:;" onclick="model_add_inquiry('sup', '45369-225675'); $(this).toggleClass('cart_cur')" rel="nofollow">
+          </a>
+         </div>
+         <div class="tow clearfix">
+          <div class="il">
+           <div>
+            ECX335SN-6 long-term supply
+            <br/>
+            Trading
+           </div>
+           <div class="clearfix">
+            <img src="https://panelook.com/cms-templates/cn/images/icon/map_biaozhu.png" style="width:12px; height:12px; float:left; margin:6px 3px 0 0"/>
+            Shanghai
+           </div>
+          </div>
+          <a href="javascript:;" onclick="com_contact('225675', 'sup', '45369')">
+           <div class="ir">
+            <div class="im clearfix">
+             <span>
+              <img alt="Tel" src="https://panelook.com/cms-templates/en/images/icon/icon_tel1.png"/>
+             </span>
+             <span>
+              <img alt="QQ" src="https://panelook.com/cms-templates/en/images/icon/icon_qq1.png"/>
+             </span>
+             <span>
+              <img alt="Skype" src="https://panelook.com/cms-templates/en/images/icon/icon_skype1.png"/>
+             </span>
+            </div>
+            <div class="bz">
+             <span id="tag_sup_45369">
+             </span>
+            </div>
+           </div>
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <!--VIP Supplier, End-->
+     <!--Datasheet Download, Begin-->
+     <a name="ECX335SN-6_Datasheets">
+     </a>
+     <div class="model_block model_part mt1">
+      <div class="head clearfix">
+       <span class="iconb">
+       </span>
+       <h2>
+        <strong>
+         Sony ECX335SN-6.pdf Datasheets Download
+        </strong>
+       </h2>
+      </div>
+      <div class="cent clearfix">
+       <table border="0" cellpadding="0" cellspacing="0" class="serieslist" width="100%">
+        <tr>
+         <th style="padding-left:10px;" width="25%">
+          Datasheet
+         </th>
+         <th width="14%">
+          Version
+         </th>
+         <th width="14%">
+          Language
+         </th>
+         <th width="12%">
+          Issue Date
+         </th>
+         <th width="8%">
+          File Size
+         </th>
+         <th width="6%">
+          Pages
+         </th>
+         <th width="6%">
+          Latest
+         </th>
+         <th width="12%">
+         </th>
+        </tr>
+        <tr>
+         <td style="padding-left:10px;">
+          <img height="12" src="https://panelook.com/cms-templates/en/images/icon/pdf_1.gif" width="12"/>
+          <a href="javascript:;" onclick="down_pdf('793375484f3070504b30574b774a46383541')" title="ECX335SN-6 datasheet">
+           ECX335SN-6.pdf
+          </a>
+         </td>
+         <td>
+          <a href="javascript:;" onclick="down_pdf('793375484f3070504b30574b774a46383541')">
+           Ver0.5
+          </a>
+         </td>
+         <td>
+          English
+         </td>
+         <td>
+          2018-12-21
+         </td>
+         <td>
+          2.1 M
+         </td>
+         <td>
+          45
+         </td>
+         <td>
+          <span class="green_b">
+           Latest
+          </span>
+         </td>
+         <td style="padding:3px 3px 3px 3px">
+          <div>
+           <a class="layui-btn layui-btn-xs layui-btn-danger" href="javascript:;" onclick="down_pdf('793375484f3070504b30574b774a46383541')">
+            <i class="layui-icon">
+             
+            </i>
+            Paid Download
+           </a>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+     </div>
+     <!--Datasheet Download, End-->
+     <!--Panel Photo List, Begin-->
+     <a name="ECX335SN-6_Photos">
+     </a>
+     <div class="model_block model_part mt1">
+      <div class="head clearfix">
+       <span class="iconb">
+       </span>
+       <h2 title="Sony ECX335SN-6 Photos">
+        Sony ECX335SN-6 Photos
+       </h2>
+      </div>
+      <div class="cent clearfix">
+       <style type="text/css">
+        .pimglist { padding:20px;}
+.pimglist li { width:217px; height:168px; float:left; margin-right:20px; overflow:hidden}
+.pimglist li img { width:217px; height:168px;}
+       </style>
+       <ul class="pimglist clearfix">
+        <li>
+         <a href="images/202203/1647251010627434.jpg" target="_blank" title="ECX335SN-6 big photo">
+          <img alt="ECX335SN-6 photo" src="https://www.panelook.com/images/202203/1647251010152045.jpg"/>
+         </a>
+        </li>
+        <li>
+         <a href="images/202012/1609308480515237.jpg" target="_blank" title="ECX335SN-6 big photo">
+          <img alt="ECX335SN-6 photo" src="https://www.panelook.com/images/202012/1609308480281724.jpg"/>
+         </a>
+        </li>
+        <li>
+         <a href="images/202006/1592363942232385.jpg" target="_blank" title="ECX335SN-6 big photo">
+          <img alt="ECX335SN-6 photo" src="https://www.panelook.com/images/202006/1592363942409142.jpg"/>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <!--Panel Photo List, End-->
+     <style type="text/css">
+      .psm {text-align:justify; float:left; padding:7px 10px; line-height:25px;}
+     </style>
+     <a name="ECX335SN-6_Summary">
+     </a>
+     <div class="model_block model_part mt1" itemprop="description">
+      <div class="head clearfix">
+       <span class="iconb">
+       </span>
+       <h2>
+        <strong>
+         Sony ECX335SN-6 Summary
+        </strong>
+       </h2>
+      </div>
+      <div class="cent clearfix">
+       <div class="psm">
+        Sony Corporation (hereafter called
+        <a href="https://panelook.com/bramodlist.php?brands[]=124">
+         Sony
+        </a>
+        )
+        <a href="https://panelook.com/ECX335SN-6_Sony_0.71_OLED_parameter_45369.html">
+         ECX335SN-6
+        </a>
+        is a
+        <a href="https://panelook.com/sizmodlist.php?sizes[]=71">
+         0.71 inch
+        </a>
+        diagonal Si-OLED display panel product, it self emiting, without touch screen. It features  an operating temperature range of -20 ~ 70°C , a storage temperature range of -30 ~ 80°C . It's general features are summarized by Panelook in the following: Ultra High Brightness, U/D,L/R Reverse , Video I/F:Mini-LVDS, YCbCr.  Based on its features, Panelook recommend that this model be applied to
+        <a href="appmodlist.php?applications[]=82">
+         HMD VR AR
+        </a>
+        etc. According to the information stored in Panelook this model mass production on Q1, 2019, Now this model is in production. There are 3 items stock and 9 suppliers of this model on Panelook. We inputted this model's specification on Jun 17 2020 for the first time, and the latest update on Sep 4 2023. If you want to embed ECX335SN-6 OLED in your future product, Panelook strongly recommend that you should contact with Sony or it's distributor to learn lateast production and specification detail. The ECX335SN-6 production status marked on Panelook.com is for reference only and should not be used as the basis for the user's decision making.  All specification details are inputted by Panelook engineers according to datasheet, but we cannot guarantee the spec listed is right.
+       </div>
+      </div>
+     </div>
+     <div style="clear:both">
+     </div>
+    </div>
+    <!--Left row, End-->
+    <div id="ov_right_row" style="padding-top:5px;">
+     <!--Right Row , Begin-->
+     <!--Sponsor Advertisment, Begin-->
+     <div id="Spon_con">
+      <a href="http://f-link.panelook.com/" onclick="return ad_click('49', 36)" target="_blank">
+       <img alt="Laptop Screen" height="120" src="images/ad/202302161352158402.jpg" width="160"/>
+      </a>
+     </div>
+     <div id="Spon_con">
+      <a href="https://tssservice.panelook.com/" onclick="return ad_click('225', 36)" target="_blank">
+       <img alt="" height="120" src="images/ad/202402281723098762.jpg" width="160"/>
+      </a>
+     </div>
+     <div id="Spon_con">
+      <a href="https://vitrolight.panelook.com/" onclick="return ad_click('104', 36)" target="_blank">
+       <img alt="Stretched Bar LCD" height="120" src="images/ad/201904081600309065.jpg" width="160"/>
+      </a>
+     </div>
+     <div id="Spon_con">
+      <a href="https://sevenpartstech.panelook.com/" onclick="return ad_click('232', 36)" target="_blank">
+       <img alt="Laptop screen" height="120" src="images/ad/202403111640375972.jpg" width="160"/>
+      </a>
+     </div>
+     <div id="Spon_con">
+      <a href="https://flylobupanel.panelook.com/" onclick="return ad_click('206', 36)" target="_blank">
+       <img alt="TV Opencell &amp; Monitor Panel" height="120" src="images/ad/202305290914046906.jpg" width="160"/>
+      </a>
+     </div>
+     <div id="Spon_con">
+      <a href="https://hktrx.panelook.com/" onclick="return ad_click('47', 36)" target="_blank">
+       <img alt="Laptop Screen" height="120" src="images/ad/202304271612348239.jpg" width="160"/>
+      </a>
+     </div>
+     <div id="Spon_con">
+      <a href="http://zenyotech.panelook.com/" onclick="return ad_click('44', 36)" target="_blank">
+       <img alt="TIANMA, KYOCERA, SHARP, EDO Distributor" height="120" src="images/ad/202302161335502909.jpg" width="160"/>
+      </a>
+     </div>
+     <div id="Spon_con">
+      <a href="http://lvhua.panelook.com/" onclick="return ad_click('46', 36)" target="_blank">
+       <img alt="Innolux Laptop Screen" height="120" src="images/ad/202302161430105789.jpg" width="160"/>
+      </a>
+     </div>
+     <ul class="more">
+      <li class="right">
+       <img height="7" src="https://panelook.com/cms-templates/en/images/icon/p01.gif" width="7"/>
+       <a href="https://panelook.com/help.php?op=bannerad" rel="nofollow">
+        Post Advertisment
+       </a>
+      </li>
+     </ul>
+     <!--Sponsor Advertisment, End-->
+    </div>
+    <!--Right Row,End-->
+    <div style="clear:both">
+    </div>
+   </div>
+   <!--Container,End-->
+   <script>
+    $("#para_nav_line").height($("#para_nav_li").children("li").length * 30 - 30);
+
+//显示更多现货和供应商
+function show_all_ea(divid, moreid)
+{
+$("."+divid).find(".item").show();
+$("."+moreid).hide();
+}
+
+
+//板块的高度
+var ModelTopArr = new Array();
+$(".model_part").each(function(index, element){
+ModelTopArr.push(parseInt($(this).offset().top));
+
+});
+console.log(ModelTopArr)
+
+// 监听页面滚动
+$(window).scroll(function() {
+
+var now_i = 0;//当前锚点
+
+for(var i=0; i< ModelTopArr.length; i++)
+{
+if($(this).scrollTop() > (ModelTopArr[i] - 50))
+{
+now_i = i;
+}
+}
+
+for(var i=0; i< ModelTopArr.length; i++)
+{
+if (now_i == i)
+{
+$('#para_nav_li li a').eq(i).addClass('cur');
+}
+else
+{
+$('#para_nav_li li a').eq(i).removeClass('cur');
+}
+}
+
+});
+   </script>
+   <div class="right_msg_box">
+    <div>
+     <img src="cms-templates/cn/images/icon/right_msg_box_cart.png"/>
+    </div>
+    <a href="javascript:;" onclick="login_go('', 'https://panelook.com/member.php?op=msgs_box')">
+     <div style="color:#FFF;">
+      <img src="cms-templates/en/images/icon/right_msg_box.png" style="width:100%;"/>
+     </div>
+     <span class="nums top_msg_num">
+      0
+     </span>
+    </a>
+    <div style="margin-top:20px;">
+     <a class="favorite" href="member.php?op=favorite" title="Favorite">
+     </a>
+    </div>
+   </div>
+   <a class="icon_page_top" href="javascript:topagehead();">
+    <img src="cms-templates/cn/images/icon/top.png"/>
+   </a>
+   <div id="navmap" style="margin:auto; margin-top:20px;">
+    <!--Down Model Navigitaion, Begin-->
+    <ul class="clearfix">
+     <li>
+      <a class="here" href="https://panelook.com/ECX335SN-6_Sony_0.71_OLED_overview_45369.html">
+       ECX335SN-6 Overview
+      </a>
+     </li>
+     <li>
+      <a href="https://panelook.com/ECX335SN-6_Sony_0.71_OLED_overview_45369.html">
+       ECX335SN-6 Specifications
+      </a>
+     </li>
+     <li>
+      <a href="https://panelook.com/ECX335SN-6_Sony_0.71_OLED_inventory_45369.html">
+       ECX335SN-6 Stocks (5333 pcs)
+      </a>
+     </li>
+     <li>
+      <a class="orange_s" href="http://vitrolight.panelook.com/" target="_blank">
+       Stretched Bar LCD ODM
+      </a>
+     </li>
+     <li>
+      <a href="https://panelook.com/ECX335SN-6_Sony_0.71_OLED_supplier_45369.html">
+       ECX335SN-6 Suppliers (9 items)
+      </a>
+     </li>
+     <li>
+      <a class="disable" title="No touch panel">
+       ECX335SN-6 Touch Panels
+      </a>
+     </li>
+     <li>
+      <a class="orange_s" href="http://smarterglass.com/search/ECX335SN-6" onclick="return ad_click(108, 53)" rel="nofollow" target="_blank">
+       ECX335SN-6 North American Sales
+      </a>
+     </li>
+     <li>
+      <a class="orange_s" href="https://www.ic-lando.co.jp/silicon/panel/ECX335SN-6" onclick="return ad_click(111, 54)" rel="nofollow" target="_blank">
+       ECX335SN-6
+       <span style="font-family:'メイリオ',Meiryo,Verdana,'ＭＳ Ｐゴシック','ヒラギノ丸ゴ Pro W4','Hiragino Maru Gothic Pro',Osaka,sans-serif;">
+        日本販売
+       </span>
+      </a>
+     </li>
+    </ul>
+   </div>
+   <!--Down Model Navigitaion, End-->
+   <script>
+    //标签
+function set_tags(company_id, app_type, app_id)
+{
+var url = "models.php?op=company-tags&ac=info&company_id="+company_id+"&app_type="+app_type+"&app_id="+app_id;
+
+if (uid == '')
+{
+ajax_login_box(url, 550, 330);
+return false;
+}
+
+
+layui.use('layer', function(){
+var layer = layui.layer;
+layer.open({
+  type: 2,
+  title: false,
+  skin: 'layui-layer-rim', //加上边框
+  area: ['550px', '330px'], //宽高
+  content: url
+});
+});
+}
+
+//联系方式
+function com_contact(company_id, app_type, app_id)
+{
+var url = "models.php?op=company-contact&ac=info&lang=en&company_id="+company_id+"&app_type="+app_type+"&app_id="+app_id;
+layui.use('layer', function(){
+var layer = layui.layer;
+layer.open({
+  type: 2,
+  title: false,
+  closeBtn:false,
+  skin: 'layui-layer-rim', //加上边框
+  area: ['1000px', '540px'], //宽高
+  content: url
+});
+});
+}
+
+//加入询价篮
+function model_add_inquiry(type, val)
+{
+if (uid == 0)
+{
+ajax_login_box();
+return false;
+}
+
+var post_arr = new Array();
+post_arr.push(type+':'+val);
+
+$.post("ajax.php?ac=add_inquiry_en", { post_arr:post_arr,  rands:randomstr () }, function(data){
+if (data > 0)
+{
+$(".top_msg_num").html(data);
+//show_tips("成功加入询价篮");
+}
+
+});
+}
+   </script>
+   <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+   <div id="footer">
+    <div class="servicebox">
+     <div class="service">
+      <dl class="help1">
+       <dt>
+        SELL PANEL
+       </dt>
+       <dd>
+        <a href="https://panelook.com/help.php?op=whysell" rel="nofollow">
+         Why sell panel here
+        </a>
+       </dd>
+       <dd>
+        <a href="https://panelook.com/help.php?op=howsell" rel="nofollow">
+         How to sell panel
+        </a>
+       </dd>
+       <dd>
+        <a href="https://panelook.com/help.php?op=vipseller" rel="nofollow">
+         VIP Seller service
+        </a>
+       </dd>
+      </dl>
+      <dl>
+       <dt>
+        BUY PANEL
+       </dt>
+       <dd>
+        <a href="https://panelook.com/help.php?op=whybuy" rel="nofollow">
+         Why buy panel here
+        </a>
+       </dd>
+       <dd>
+        <a href="https://panelook.com/help.php?op=howbuy" rel="nofollow">
+         How to buy panel
+        </a>
+       </dd>
+       <dd>
+        <a href="https://panelook.com/help.php?op=vipbuyer" rel="nofollow">
+         VIP Buyer service
+        </a>
+       </dd>
+      </dl>
+      <dl>
+       <dt>
+        ADVERTISING
+       </dt>
+       <dd>
+        <a href="https://panelook.com/help.php?op=hotad" rel="nofollow">
+         Hot Advertising
+        </a>
+       </dd>
+       <dd>
+        <a href="https://panelook.com/help.php?op=bannerad" rel="nofollow">
+         Banner Advertising
+        </a>
+       </dd>
+       <dd>
+        <a href="sitemap.php">
+         Sitemap
+        </a>
+       </dd>
+      </dl>
+      <dl>
+       <dt>
+        ABOUT PANELOOK
+       </dt>
+       <dd>
+        <a href="https://panelook.com/help.php?op=aboutus">
+         Company info
+        </a>
+       </dd>
+       <dd>
+        <a href="https://panelook.com/help.php?op=certificate">
+         Certifications
+        </a>
+       </dd>
+       <dd>
+        <a href="https://panelook.com/help.php?op=contactus">
+         Contact Us
+        </a>
+       </dd>
+      </dl>
+      <dl class="kefu">
+       <dt>
+        MEMBER SERVICE
+       </dt>
+       <dd class="tel" style="display:none">
+        TEL:+86-20-34256356
+       </dd>
+       <dd class="follow">
+        <a href="tencent://message/?uin=3003329228&amp;Site=www.panelook.cn&amp;Menu=yes" rel="external nofollow">
+         <img align="middle" alt="Click here to send message" border="0" height="21" src="https://panelook.com/cms-templates/cn/images/im/QQ_icon.gif" width="21"/>
+        </a>
+        <a href="skype:panelook?chat" onclick="return skypeCheck();" rel="external nofollow">
+         <img align="middle" border="0" class="skype" height="22" src="https://panelook.com/cms-templates/cn/images/im/skype.gif" width="49"/>
+        </a>
+       </dd>
+       <dd>
+        <img border="0" height="16" src="https://panelook.com/cms-templates/en/images/csr.gif" width="143"/>
+       </dd>
+      </dl>
+      <i class="bgbtm">
+      </i>
+      <i class="bgtop">
+      </i>
+     </div>
+    </div>
+    <div class="copyright">
+     Copyright ©2010~2024 Panelook Information Co., Ltd. All right reserved
+     <a href="https://beian.miit.gov.cn" rel="noopener noreferrer" target="_blank">
+      粤ICP备11002176号
+     </a>
+    </div>
+    <div style="width:300px;margin:0 auto; padding:0px 0;">
+     <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44010502000096" rel="noopener noreferrer" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;" target="_blank">
+      <img border="0" height="20" src="https://panelook.com/cms-templates/cn/images/beian.png" style="float:left;" width="20"/>
+      <span style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">
+       粤公网安备 44010502000096号
+      </span>
+     </a>
+    </div>
+   </div>
+   <div class="clearfix" id="parnumberdiv">
+   </div>
+   <style type="text/css">
+    #compare_box { border:solid #4b8dc5 1px; position:absolute; right:10px; top:95px; width:218px; z-index:999999; text-align:left; background:#FFF; display:none}
+#compare_box .title { height:29px; line-height:29px; background:url(cms-templates/en/images/compare/compare_box_bg.gif); font-size:12px; font-weight:bold; color:#FFF; padding-left:8px; overflow:hidden}
+#compare_box .title span { float:right; margin:4px 8px 0 0}
+#compare_box th { padding:0 8px 10px 8px; text-align:left}
+#compare_box td { padding:0 8px 10px 8px; text-align:right}
+
+#compare_mod_list { padding:5px 8px 10px 8px}
+#compare_mod_list li { height:28px; line-height:28px; overflow:hidden; background:url(cms-templates/en/images/compare/line.gif) repeat-x left bottom}
+#compare_mod_list li img { float:right; margin:5px 0 0 0; cursor:pointer}
+
+#compare_mini {position:absolute; right:10px; top:95px; width:30px; height:147px; display:none}
+#compare_mini img { cursor:pointer}
+
+#compare_submit { display:none}
+   </style>
+   <div id="compare_box">
+    <form action="modelcompare.php" id="modelcompare" method="POST" target="compare">
+     <div class="title">
+      <span>
+       <a href="javascript:;" onclick="compare_cose()" rel="nofollow" title="Click to clear models &amp; close window">
+        <img height="21" src="cms-templates/en/images/compare/close.gif" width="21"/>
+       </a>
+       <a href="javascript:;" onclick="compare_hide()" rel="nofollow" title="Click to hide window">
+        <img height="21" src="cms-templates/en/images/compare/pk_close.gif" width="20"/>
+       </a>
+      </span>
+      Panel Compare [
+      <strong id="compare_num">
+       0
+      </strong>
+      /15]
+     </div>
+     <ul id="compare_mod_list">
+     </ul>
+     <table border="0" cellpadding="0" cellspacing="0" id="compare_submit" width="100%">
+      <tr>
+       <th>
+        <input src="cms-templates/en/images/compare/submit.gif" type="image"/>
+       </th>
+       <td>
+        <img height="13" src="cms-templates/en/images/compare/Rotate.gif" style="vertical-align:middle" width="13"/>
+        <a href="javascript:;" onclick="compare_clear()" rel="nofollow">
+         Clear
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table border="0" cellpadding="0" cellspacing="0" id="compare_empty" width="100%">
+      <tr>
+       <td style="text-align:center">
+        No model selected !
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align:center">
+        <img height="14" src="cms-templates/en/images/compare/cancel.gif" style="vertical-align:middle" width="14"/>
+        <a href="javascript:;" onclick="compare_cose()" rel="nofollow">
+         Close Window
+        </a>
+       </td>
+      </tr>
+     </table>
+    </form>
+   </div>
+   <div id="compare_mini">
+    <img height="147" onclick="compare_show()" src="cms-templates/en/images/compare/mini.gif" title="Click to expand" width="30"/>
+   </div>
+   <script>
+    function compare_add(id, obj, name, url)
+{
+$.get("ajax_compare.php?ac=compare_add", { id:id, name:name, url:url, rst:randomstr()}, function(data){
+if (data == 'error')
+{
+alert("Sorry, you've added 15 models, please delete at least one model before adding.");
+}
+else
+{
+if (obj != 1)
+{
+var str = obj.innerHTML;
+if (str.indexOf("plus14.gif") > 0)
+{
+obj.innerHTML = '<img src="cms-templates/en/images/compare/minus14.gif" width="14" height="14" alt="Delete" />';
+}
+else
+{
+obj.innerHTML = '<img src="cms-templates/en/images/compare/plus14.gif" width="14" height="14" alt="Add" />';
+}
+}
+
+compare_get();
+$("#compare_box").show();
+$("#compare_mini").hide();
+}
+});
+}
+
+function compare_del(id, name)
+{
+$("#panel_list_comp_"+id).html('<img src="cms-templates/en/images/compare/plus14.gif" width="14" height="14" alt="Add" />');
+$.get("ajax_compare.php?ac=compare_add", { id:id, name:name, url:'', rst:randomstr()}, function(data){
+//compare_get();
+$("#compare_li_"+id).remove();
+});
+}
+function compare_get()
+{
+var str = '';
+$.getJSON("ajax_compare.php?ac=compare_get", {rst:randomstr()}, function(data){
+if (data.comp_close == 1)
+{
+$("#compare_box").hide();
+$("#compare_mini").hide();
+}
+else
+{
+if (data.nums > 0)
+{
+$.each(data.items, function(key, val) {
+str += '<li id="compare_li_'+val[0]+'">';
+str += '<input class="selectbox" type="hidden" name="panelids[]" value="'+val[0]+'" />';
+str += '<img onclick="compare_del('+val[0]+', \''+val[1]+'\')" src="cms-templates/en/images/compare/del.gif" width="15" height="15" title="Delete" />';
+//str += "<a href=\""+val[2]+"\">"+val[1]+"</a>";
+str += "<a href=\"modeldetail.php?id="+val[0]+"\">"+val[1]+"</a>";
+str += '</li>';
+
+$("#panel_list_comp_"+val[0]).html('<img src="cms-templates/en/images/compare/minus14.gif" width="14" height="14" alt="Delete" />');
+});
+$("#compare_submit").show();
+$("#compare_empty").hide();
+
+if (data.comp_hide == 1)
+{
+compare_hide();
+}
+else
+{
+compare_show();
+}
+}
+else
+{
+$("#compare_submit").hide();
+$("#compare_empty").show();
+$("#compare_mini").hide();
+}
+$("#compare_mod_list").html(str);
+}
+$("#compare_num").html(data.nums);
+});
+}
+compare_get();
+
+function compare_clear()
+{
+$.getJSON("ajax_compare.php?ac=compare_get", {rst:randomstr()}, function(data){
+if (data.nums > 0)
+{
+$.get("ajax_compare.php?ac=compare_clear", { rst:randomstr()}, function(data){});
+$.each(data.items, function(key, val) {
+//$.get("ajax_compare.php?ac=compare_add", { id:val[0], name:val[1], url:'', rst:randomstr()}, function(data){});
+$("#panel_list_comp_"+val[0]).html('<img src="cms-templates/en/images/compare/plus14.gif" width="14" height="14" alt="Add" />');
+});
+}
+$("#compare_mod_list").html('');
+$("#compare_submit").hide();
+$("#compare_empty").show();
+$("#compare_num").html('0');
+});
+}
+function compare_hide()
+{
+$.get("ajax_compare.php?ac=compare_hide", {rst:randomstr()}, function(data){
+$("#compare_box").hide();
+$("#compare_mini").show();
+initFloatTips();
+});
+}
+function compare_show()
+{
+$.get("ajax_compare.php?ac=compare_show", {rst:randomstr()}, function(data){
+$("#compare_box").show();
+$("#compare_mini").hide();
+initFloatTips();
+});
+}
+
+function compare_cose()
+{
+$.get("ajax_compare.php?ac=compare_cose", {rst:randomstr()}, function(data){
+$("#compare_box").hide();
+$("#compare_mini").hide();
+$(".panel_list_comp").html('<img src="cms-templates/en/images/compare/plus14.gif" width="14" height="14" alt="Add" />');
+});
+}
+
+var tips;
+var theTop = 95;
+var old = theTop;
+function initFloatTips()
+{
+if ($("#compare_box").is(":hidden") == true)
+{
+tips = document.getElementById('compare_mini');
+}
+else
+{
+tips = document.getElementById('compare_box');
+}
+moveTips();
+}
+function moveTips()
+{
+var tt=50;
+if (window.innerHeight)
+{
+pos = window.pageYOffset
+}
+else if (document.documentElement && document.documentElement.scrollTop)
+{
+pos = document.documentElement.scrollTop
+}
+else if (document.body)
+{
+pos = document.body.scrollTop;
+}
+pos=pos-tips.offsetTop+theTop;
+pos=tips.offsetTop+pos/10;
+if (pos < theTop) pos = theTop;
+if (pos != old)
+{
+tips.style.top = pos+"px";
+tt=10;
+}
+old = pos;
+setTimeout(moveTips,tt);
+}
+initFloatTips();
+
+//询价蓝数量
+<!---->
+page_footer_load();
+   </script>
+   <!--Google Analytics 4 Code, begin-->
+   <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-PKG12TRWD7">
+   </script>
+   <script>
+    window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PKG12TRWD7');
+   </script>
+   <!--Google Analytics 4 Code, end-->
+   <!--Baidu Analytics Code, begin-->
+   <script>
+    var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?828418d19b185321da215694fbe56978";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+   </script>
+   <!--Baidu Analytics Code, end-->
+  </div>
+ </body>
+</html>
